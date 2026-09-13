@@ -125,10 +125,5 @@ An AI-powered, enterprise-grade **Java** web application that automates stock ma
 
 </div>
 
-<div align="center">
-
-> *"Build things that actually work."*
-
-</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0a1628,60:0d2137,100:0d1117&height=120&section=footer"/>
