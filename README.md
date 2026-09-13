@@ -1,3 +1,12 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="faizerumar's GitHub profile" src="dark_mode.svg" />
+</picture>
+
+
+
+<img width="1082" height="584" alt="dark_mode" src="https://github.com/user-attachments/assets/36b68f37-47c6-4f44-848a-7c802b97c3e2" />
 <!-- ╔══════════════════════════════════════════════════════════════╗
      ║  UMAR FAIZER — GitHub Profile README v1.0                   ║
      ║  Software Developer | Python · Java · C# · ASP.NET · Dart   ║
