@@ -1,10 +1,10 @@
 <!-- ╔══════════════════════════════════════════════════════════════╗
      ║  UMAR FAIZER — GitHub Profile README v1.0                   ║
-     ║  Software Developer | Python · Java · C# · MySQL · Dart     ║
+     ║  Software Developer | Python · Java · C# · ASP.NET · Dart   ║
      ╚══════════════════════════════════════════════════════════════╝ -->
 
 <!-- ═══════════════════════ HEADER ═══════════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0a1628,60:0d2137,100:0d1117&height=200&section=header&text=Umar%20Faizer&fontSize=42&fontColor=58A6FF&animation=fadeIn&fontAlignY=40&desc=Software%20Developer%20%7C%20Python%20%7C%20Java%20%7C%20C%23%20%7C%20MySQL%20%7C%20Dart&descAlignY=63&descSize=16&descColor=79c0ff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0a1628,60:0d2137,100:0d1117&height=200&section=header&text=Umar%20Faizer&fontSize=42&fontColor=58A6FF&animation=fadeIn&fontAlignY=40&desc=Software%20Developer%20%7C%20Python%20%7C%20Java%20%7C%20C%23%20%7C%20ASP.NET%20%7C%20Dart&descAlignY=63&descSize=16&descColor=79c0ff"/>
 
 <!-- ═══════════════════════ 3D CUBE + IDENTITY ═══════════════════════ -->
 <table align="center"><tr>
@@ -15,7 +15,7 @@
 </td>
 <td valign="middle">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2600&pause=1000&color=58A6FF&vCenter=true&multiline=false&repeat=true&width=500&lines=Writing+code+that+solves+real+problems;Python+%7C+Java+%7C+C%23+%7C+MySQL+%7C+Dart;From+idea+to+working+application;Every+commit+moves+the+build+forward" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2600&pause=1000&color=58A6FF&vCenter=true&multiline=false&repeat=true&width=500&lines=Writing+code+that+solves+real+problems;Python+%7C+Java+%7C+C%23+%7C+ASP.NET+%7C+Dart;From+idea+to+working+application;Every+commit+moves+the+build+forward" alt="Typing SVG"/>
 
 <br/><br/>
 
@@ -43,7 +43,7 @@ identity:
 
 professional_stack:
   languages:    [ Python, Java, C#, Dart ]
-  databases:    [ MySQL ]
+  frameworks:   [ ASP.NET ]
   web:          [ HTML, CSS, JavaScript ]
   ide:          [ Apache NetBeans, VS Code ]
   version_ctrl: [ Git ]
@@ -122,6 +122,7 @@ An AI-powered, enterprise-grade **Java** web application that automates stock ma
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/faizerumar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faizer-umar)
 
 </div>
 
