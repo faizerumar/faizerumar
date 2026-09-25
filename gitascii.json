@@ -1,0 +1,214 @@
+{
+  "widgets": [
+    {
+      "instanceId": "widget_1790258591629",
+      "widgetId": "controlplane-editorial",
+      "name": "Controlplane-editorial Widget",
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 800,
+        "height": 240
+      },
+      "config": {
+        "layoutType": "hero",
+        "accentColor": "#c5ff4a",
+        "backgroundColor": "transparent",
+        "secondaryColor": "#ffffff",
+        "borderColor": "#c5ff4a",
+        "repoSortBy": "forks",
+        "animationType": "none",
+        "animationPreviewKey": 3,
+        "selectedRepos": [
+          "python-ai-chatbot",
+          "telegram-bot",
+          "1Portfolio-Umar"
+        ],
+        "customBio": "Building the systems around coding agents",
+        "customTitle": "",
+        "showGrid": true
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 2
+    },
+    {
+      "instanceId": "widget_1790259111716",
+      "widgetId": "avatar",
+      "name": "Avatar Widget",
+      "position": {
+        "x": 360,
+        "y": 60
+      },
+      "size": {
+        "width": 120,
+        "height": 120
+      },
+      "config": {
+        "lockAspectRatio": true,
+        "animationType": "fade-in",
+        "animationPreviewKey": 1,
+        "animationEasing": "linear"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 2
+    },
+    {
+      "instanceId": "widget_1790259186392",
+      "widgetId": "stats",
+      "name": "Stats Widget",
+      "position": {
+        "x": 0,
+        "y": 248
+      },
+      "size": {
+        "width": 800,
+        "height": 120
+      },
+      "config": {
+        "statsLayout": "horizontal",
+        "statsStyle": "default",
+        "valueFontSize": 24,
+        "hideMetrics": [
+          "forks",
+          "gists"
+        ],
+        "lockAspectRatio": false,
+        "animationType": "none",
+        "animationPreviewKey": 3,
+        "backgroundColor": "transparent"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 3
+    },
+    {
+      "instanceId": "widget_1790259557869",
+      "widgetId": "godprofile-neural",
+      "name": "Godprofile-neural Widget",
+      "position": {
+        "x": 0,
+        "y": 368
+      },
+      "size": {
+        "width": 800,
+        "height": 260
+      },
+      "config": {
+        "accentColor": "#c5ff4a",
+        "neuralTechs": {
+          "Frontend": [
+            "react",
+            "py",
+            "dart",
+            "java"
+          ],
+          "Backend": [
+            "nodejs",
+            "postgres",
+            "docker",
+            "vite"
+          ],
+          "DevOps": [
+            "git",
+            "github",
+            "docker"
+          ]
+        },
+        "animationType": "none",
+        "animationPreviewKey": 3,
+        "animationDuration": 3000,
+        "backgroundColor": "#1a1c18"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 4
+    },
+    {
+      "instanceId": "widget_1790262980684",
+      "widgetId": "codeweb-minimal-badge",
+      "name": "Codeweb-minimal-badge Widget",
+      "position": {
+        "x": 0,
+        "y": 1074
+      },
+      "size": {
+        "width": 800,
+        "height": 40
+      },
+      "config": {
+        "suffix": ".",
+        "textColor": "#c5ff4a",
+        "align": "center",
+        "showBorder": false
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 7
+    },
+    {
+      "instanceId": "widget_1790263166558",
+      "widgetId": "readme-quotes",
+      "name": "Readme-quotes Widget",
+      "position": {
+        "x": 0,
+        "y": 882
+      },
+      "size": {
+        "width": 800,
+        "height": 184
+      },
+      "config": {
+        "backgroundColor": "transparent"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 8
+    },
+    {
+      "instanceId": "widget_1790264023537",
+      "widgetId": "asciiprofile-heatmap",
+      "name": "Asciiprofile-heatmap Widget",
+      "position": {
+        "x": 0,
+        "y": 644
+      },
+      "size": {
+        "width": 800,
+        "height": 240
+      },
+      "config": {
+        "accentColor": "#c5ff4a",
+        "paletteIndex": 3,
+        "palette": [
+          "#161b22",
+          "#450a0a",
+          "#7f1d1d",
+          "#b91c1c",
+          "#ef4444",
+          "#f87171"
+        ],
+        "backgroundColor": "#1f1f1f"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 8
+    }
+  ],
+  "globalStyles": {
+    "backgroundColor": "#060606",
+    "textColor": "#e5e5e5",
+    "accentColor": "#c5ff4a",
+    "borderColor": "#252525",
+    "fontFamily": "'JetBrains Mono', monospace",
+    "borderRadius": 0,
+    "padding": 0,
+    "themeMode": "dark",
+    "templateStyle": "native",
+    "transparentBackground": false
+  },
+  "templateId": "cyberpunk"
+}
