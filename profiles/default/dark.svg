@@ -1,0 +1,935 @@
+
+<svg width="800" height="1130" viewBox="0 0 800 1130" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&amp;family=Fira+Code:wght@300..700&amp;family=Inter+Tight:ital,wght@0,100..900;1,100..900&amp;family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&amp;family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&amp;family=Outfit:wght@100..900&amp;family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&amp;family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&amp;family=Roboto:ital,wght@0,100..900;1,100..900&amp;family=Space+Grotesk:wght@300..700&amp;display=swap');
+
+    * {
+      box-sizing: border-box;
+    }
+
+    text {
+      user-select: none;
+    }
+
+    .gitascii-canvas-bg {
+      fill: #0d1117;
+      transition: fill 0.3s ease;
+    }
+
+    @media (prefers-color-scheme: light) {
+      .gitascii-canvas-bg {
+        fill: #ffffff !important;
+      }
+    }
+
+    @media (prefers-color-scheme: dark) {
+      .gitascii-canvas-bg {
+        fill: #0d1117 !important;
+      }
+    }
+  </style>
+
+  <rect class="" width="800" height="1130" fill="#060606" rx="0" />
+
+  
+    <g transform="translate(0, 0)" id="widget-widget_1790258591629">
+
+      
+      
+      
+      
+      
+    <svg xmlns="http://www.w3.org/2000/svg" width="800" height="240" viewBox="0 0 1200 360" role="img" aria-label="faizerumar editorial profile" data-mode="dark">
+      <defs>
+        <pattern id="paper-grid-widget_1790258591629" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#45463E" stroke-opacity=".17"/></pattern>
+        <filter id="grain-widget_1790258591629" x="0" y="0" width="100%" height="100%"><feTurbulence type="fractalNoise" baseFrequency=".82" numOctaves="2" seed="7"/><feColorMatrix values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 .045 0"/></filter>
+      </defs><style>
+        .display{font-family:Georgia,"Times New Roman",serif}.grotesk{font-family:"Arial Narrow","Avenir Next Condensed",Impact,sans-serif}.body{font-family:"Avenir Next",Avenir,Helvetica,sans-serif}.mono{font-family:ui-monospace,SFMono-Regular,Menlo,monospace}
+        .enter{animation:enter .65s cubic-bezier(.2,.8,.2,1)}.scan{stroke-dasharray:3 8;animation:scan 9s linear infinite}
+        @keyframes enter{from{opacity:.25;transform:translateY(8px)}to{opacity:1;transform:translateY(0)}}@keyframes scan{to{stroke-dashoffset:-120}}
+        @media(prefers-reduced-motion:reduce){.enter,.scan{animation:none}}
+      </style><rect width="1200" height="360" fill="#0D0E0C"/><rect x="13" y="13" width="1174" height="334" fill="#191A16" stroke="#45463E"/><rect x="13" y="13" width="1174" height="334" fill="url(#paper-grid-widget_1790258591629)"/>
+      <rect x="13" y="13" width="156" height="334" fill="#E9E2D0"/><rect x="26" y="26" width="5" height="72" fill="#c5ff4a"/><rect x="26" y="105" width="5" height="34" fill="#ffffff"/>
+      <text x="91" y="220" text-anchor="middle" class="grotesk" font-size="164" font-weight="900" letter-spacing="-10" fill="#11120F">01</text><text x="91" y="253" text-anchor="middle" class="mono" font-size="8" letter-spacing="3" fill="#11120F">SYSTEMS REVIEW</text>
+      <path d="M52 281H130" stroke="#11120F"/><text x="91" y="307" text-anchor="middle" class="mono" font-size="8" letter-spacing="2" fill="#11120F">03 WORKS</text><text x="91" y="326" text-anchor="middle" class="mono" font-size="8" letter-spacing="2" fill="#11120F">BADULLA , SRILANKA </text>
+      <g class="enter"><text x="199" y="48" class="mono" font-size="8" letter-spacing="2.5" fill="#c5ff4a">PROFILE DOSSIER / FAIZERUMAR</text><path d="M199 62H730" stroke="#45463E"/>
+      <text x="196" y="122" class="display" font-size="46" font-weight="700" letter-spacing="-1" fill="#F4EEDC">UMAR</text><text x="196" y="168" class="display" font-size="46" font-style="italic" letter-spacing="-1" fill="#F4EEDC">FAIZER</text>
+      <rect x="199" y="218" width="42" height="4" fill="#ffffff"/><text x="199" y="250" class="body" font-size="12" fill="#AAA797">Building the systems around coding agents</text>
+      <text x="199" y="294" class="mono" font-size="8" letter-spacing="2" fill="#F4EEDC">AUTHORED SYSTEMS · OPEN SOURCE · 09 ACTIVE LAYERS</text><path class="scan" d="M199 314H730" stroke="#c5ff4a" stroke-width="2"/></g>
+      <path d="M758 30V330" stroke="#45463E"/><text x="790" y="47" class="display" font-size="17" font-style="italic" fill="#F4EEDC">Editor&apos;s selection</text><text x="1152" y="47" text-anchor="end" class="mono" font-size="8" letter-spacing="2" fill="#AAA797">VOL. 01 / 03</text>
+      
+      <g class="enter" style="animation-delay:120ms">
+        <text x="790" y="93" class="grotesk" font-size="30" font-weight="900" fill="#c5ff4a" opacity=".82">01</text>
+        <text x="850" y="87" class="body" font-size="15" font-weight="800" fill="#F4EEDC">faizerumar</text>
+        <text x="850" y="106" class="mono" font-size="8" letter-spacing="1.5" fill="#c5ff4a">CODE / SELECTED SYSTEM</text>
+        <text x="850" y="127" class="body" font-size="10" fill="#AAA797">Repository on GitHub...</text>
+        <path d="M790 140H1152" stroke="#45463E"/>
+      </g>
+      <g class="enter" style="animation-delay:190ms">
+        <text x="790" y="163" class="grotesk" font-size="30" font-weight="900" fill="#ffffff" opacity=".82">02</text>
+        <text x="850" y="157" class="body" font-size="15" font-weight="800" fill="#F4EEDC">1Portfolio-Umar</text>
+        <text x="850" y="176" class="mono" font-size="8" letter-spacing="1.5" fill="#ffffff">JAVASCRIPT / SELECTED SYSTEM</text>
+        <text x="850" y="197" class="body" font-size="10" fill="#AAA797">Portfolio of Software Developer Umar Faizer </text>
+        <path d="M790 210H1152" stroke="#45463E"/>
+      </g>
+      <g class="enter" style="animation-delay:260ms">
+        <text x="790" y="233" class="grotesk" font-size="30" font-weight="900" fill="#c5ff4a" opacity=".82">03</text>
+        <text x="850" y="227" class="body" font-size="15" font-weight="800" fill="#F4EEDC">python-ai-chatbot</text>
+        <text x="850" y="246" class="mono" font-size="8" letter-spacing="1.5" fill="#c5ff4a">PYTHON / SELECTED SYSTEM</text>
+        <text x="850" y="267" class="body" font-size="10" fill="#AAA797">python AI chatbot powered by geminiAI</text>
+        <path d="M790 280H1152" stroke="#45463E"/>
+      </g>
+      <rect x="1157" y="317" width="5" height="5" fill="#c5ff4a"/><rect x="1145" y="317" width="5" height="5" fill="#ffffff"/><rect x="13" y="13" width="1174" height="334" filter="url(#grain-widget_1790258591629)" opacity=".28" pointer-events="none"/>
+    </svg>
+  
+    </g>
+  
+
+    <g transform="translate(360, 60)" id="widget-widget_1790259111716">
+
+      
+        <style>
+          @keyframes svg-fade-in-widget_1790259111716-1 {
+            from { opacity: 0; }
+            to { opacity: 1; }
+          }
+          @keyframes svg-slide-up-widget_1790259111716-1 {
+            from { opacity: 0; transform: translateY(8px); }
+            to { opacity: 1; transform: translateY(0); }
+          }
+          @keyframes svg-slide-down-widget_1790259111716-1 {
+            from { opacity: 0; transform: translateY(-8px); }
+            to { opacity: 1; transform: translateY(0); }
+          }
+          @keyframes svg-slide-left-widget_1790259111716-1 {
+            from { opacity: 0; transform: translateX(12px); }
+            to { opacity: 1; transform: translateX(0); }
+          }
+          @keyframes svg-slide-right-widget_1790259111716-1 {
+            from { opacity: 0; transform: translateX(-12px); }
+            to { opacity: 1; transform: translateX(0); }
+          }
+          @keyframes svg-zoom-in-widget_1790259111716-1 {
+            from { opacity: 0; transform: scale(0.9); }
+            to { opacity: 1; transform: scale(1); }
+          }
+          @keyframes svg-zoom-out-widget_1790259111716-1 {
+            from { opacity: 0; transform: scale(1.1); }
+            to { opacity: 1; transform: scale(1); }
+          }
+          @keyframes svg-flip-x-widget_1790259111716-1 {
+            from { opacity: 0; transform: perspective(400px) rotateX(90deg); }
+            to { opacity: 1; transform: perspective(400px) rotateX(0deg); }
+          }
+          @keyframes svg-flip-y-widget_1790259111716-1 {
+            from { opacity: 0; transform: perspective(400px) rotateY(90deg); }
+            to { opacity: 1; transform: perspective(400px) rotateY(0deg); }
+          }
+          @keyframes svg-glitch-widget_1790259111716-1 {
+            0% { opacity: 0; transform: skewX(10deg); }
+            20% { opacity: 0.8; transform: skewX(-10deg); }
+            40% { opacity: 0.5; transform: skewX(5deg); }
+            60% { opacity: 0.9; transform: skewX(0deg); }
+            100% { opacity: 1; }
+          }
+          @keyframes svg-scan-lines-widget_1790259111716-1 {
+            0% { opacity: 0; clip-path: inset(100% 0 0 0); }
+            100% { opacity: 1; clip-path: inset(0 0 0 0); }
+          }
+
+          #widget-widget_1790259111716 .anim-target {
+            animation-name: svg-fade-in-widget_1790259111716-1;
+            animation-duration: 1500ms;
+            animation-timing-function: linear;
+            animation-fill-mode: both;
+          }
+        </style>
+      
+      
+      <rect class="" x="0" y="0" width="120" height="120" fill="#060606" stroke="#252525" stroke-width="1" rx="0" />
+      
+      
+    <clipPath id="avatar-clip-widget_1790259111716">
+      <rect class="no-anim" x="0" y="0" width="120" height="120" rx="0" />
+    </clipPath>
+    <rect x="0" y="0" width="120" height="120" rx="0" fill="none" stroke="#c5ff4a" stroke-width="1.5" />
+    <image class="anim-target" href="data:image/jpeg;base64,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" x="0" y="0" width="120" height="120" preserveAspectRatio="xMidYMid slice" clip-path="url(#avatar-clip-widget_1790259111716)"  style="animation-delay: 0ms; transform-origin: center;" />
+  
+  
+    </g>
+  
+
+    <g transform="translate(0, 248)" id="widget-widget_1790259186392">
+
+      
+      
+      <rect class="" x="0" y="0" width="800" height="120" fill="transparent" stroke="#252525" stroke-width="1" rx="0" />
+      
+      
+    <text x="24" y="32" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="500" fill="#7a7a7a" letter-spacing="2">[ GITHUB METRICS ]</text>
+    
+        <g transform="translate(24, 48)">
+          <text x="0" y="24" font-family="'JetBrains Mono', monospace" font-size="24" font-weight="300" fill="#c5ff4a">2</text>
+          <text x="0" y="40" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="500" fill="#7a7a7a" letter-spacing="1.5">STARS</text>
+        </g>
+        <g transform="translate(212, 48)">
+          <text x="0" y="24" font-family="'JetBrains Mono', monospace" font-size="24" font-weight="300" fill="#c5ff4a">9</text>
+          <text x="0" y="40" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="500" fill="#7a7a7a" letter-spacing="1.5">REPOS</text>
+        </g>
+        <g transform="translate(400, 48)">
+          <text x="0" y="24" font-family="'JetBrains Mono', monospace" font-size="24" font-weight="300" fill="#c5ff4a">12</text>
+          <text x="0" y="40" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="500" fill="#7a7a7a" letter-spacing="1.5">FOLLOWERS</text>
+        </g>
+        <g transform="translate(588, 48)">
+          <text x="0" y="24" font-family="'JetBrains Mono', monospace" font-size="24" font-weight="300" fill="#c5ff4a">8</text>
+          <text x="0" y="40" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="500" fill="#7a7a7a" letter-spacing="1.5">FOLLOWING</text>
+        </g>
+  
+  
+    </g>
+  
+
+    <g transform="translate(0, 368)" id="widget-widget_1790259557869">
+
+      
+      
+      
+      
+      
+    <svg xmlns="http://www.w3.org/2000/svg" width="800" height="260" viewBox="0 0 800 260" preserveAspectRatio="xMidYMid meet">
+      <defs>
+        <linearGradient id="nbg-widget_1790259557869" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stop-color="#0b0f14"/>
+          <stop offset="100%" stop-color="#151c25"/>
+        </linearGradient>
+        <radialGradient id="nglow-widget_1790259557869" cx="50%" cy="50%" r="50%">
+          <stop offset="0%" stop-color="#c5ff4a" stop-opacity="0.9"/>
+          <stop offset="60%" stop-color="#c5ff4a" stop-opacity="0.4"/>
+          <stop offset="100%" stop-color="#c5ff4a" stop-opacity="0"/>
+        </radialGradient>
+        <filter id="glow-widget_1790259557869" x="-50%" y="-50%" width="200%" height="200%">
+          <feGaussianBlur stdDeviation="4" result="blur"/>
+          <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+        </filter>
+      </defs>
+      <rect width="800" height="260" fill="url(#nbg-widget_1790259557869)" rx="12"/>
+        <path d="M200 52 C266 52,334 52,400 52" fill="none" stroke="#c5ff4a" stroke-width="1" opacity="0.2"/>
+  <path d="M200 52 C266 52,334 104,400 104" fill="none" stroke="#c5ff4a" stroke-width="1" opacity="0.2"/>
+  <path d="M200 52 C266 52,334 156,400 156" fill="none" stroke="#c5ff4a" stroke-width="1" opacity="0.2"/>
+  <path d="M200 52 C266 52,334 208,400 208" fill="none" stroke="#c5ff4a" stroke-width="1" opacity="0.2"/>
+  <path d="M200 104 C266 104,334 52,400 52" fill="none" stroke="#c5ff4a" stroke-width="1" opacity="0.2"/>
+  <path d="M200 104 C266 104,334 104,400 104" fill="none" stroke="#c5ff4a" stroke-width="1" opacity="0.2"/>
+  <path d="M200 104 C266 104,334 156,400 156" fill="none" stroke="#c5ff4a" stroke-width="1" opacity="0.2"/>
+  <path d="M200 104 C266 104,334 208,400 208" fill="none" stroke="#c5ff4a" stroke-width="1" opacity="0.2"/>
+  <path d="M200 156 C266 156,334 52,400 52" fill="none" stroke="#c5ff4a" stroke-width="1" opacity="0.2"/>
+  <path d="M200 156 C266 156,334 104,400 104" fill="none" stroke="#c5ff4a" stroke-width="1" opacity="0.2"/>
+  <path d="M200 156 C266 156,334 156,400 156" fill="none" stroke="#c5ff4a" stroke-width="1" opacity="0.2"/>
+  <path d="M200 156 C266 156,334 208,400 208" fill="none" stroke="#c5ff4a" stroke-width="1" opacity="0.2"/>
+  <path d="M200 208 C266 208,334 52,400 52" fill="none" stroke="#c5ff4a" stroke-width="1" opacity="0.2"/>
+  <path d="M200 208 C266 208,334 104,400 104" fill="none" stroke="#c5ff4a" stroke-width="1" opacity="0.2"/>
+  <path d="M200 208 C266 208,334 156,400 156" fill="none" stroke="#c5ff4a" stroke-width="1" opacity="0.2"/>
+  <path d="M200 208 C266 208,334 208,400 208" fill="none" stroke="#c5ff4a" stroke-width="1" opacity="0.2"/>
+  <path d="M400 52 C466 52,534 65,600 65" fill="none" stroke="#c5ff4a" stroke-width="1" opacity="0.2"/>
+  <path d="M400 52 C466 52,534 130,600 130" fill="none" stroke="#c5ff4a" stroke-width="1" opacity="0.2"/>
+  <path d="M400 52 C466 52,534 195,600 195" fill="none" stroke="#c5ff4a" stroke-width="1" opacity="0.2"/>
+  <path d="M400 104 C466 104,534 65,600 65" fill="none" stroke="#c5ff4a" stroke-width="1" opacity="0.2"/>
+  <path d="M400 104 C466 104,534 130,600 130" fill="none" stroke="#c5ff4a" stroke-width="1" opacity="0.2"/>
+  <path d="M400 104 C466 104,534 195,600 195" fill="none" stroke="#c5ff4a" stroke-width="1" opacity="0.2"/>
+  <path d="M400 156 C466 156,534 65,600 65" fill="none" stroke="#c5ff4a" stroke-width="1" opacity="0.2"/>
+  <path d="M400 156 C466 156,534 130,600 130" fill="none" stroke="#c5ff4a" stroke-width="1" opacity="0.2"/>
+  <path d="M400 156 C466 156,534 195,600 195" fill="none" stroke="#c5ff4a" stroke-width="1" opacity="0.2"/>
+  <path d="M400 208 C466 208,534 65,600 65" fill="none" stroke="#c5ff4a" stroke-width="1" opacity="0.2"/>
+  <path d="M400 208 C466 208,534 130,600 130" fill="none" stroke="#c5ff4a" stroke-width="1" opacity="0.2"/>
+  <path d="M400 208 C466 208,534 195,600 195" fill="none" stroke="#c5ff4a" stroke-width="1" opacity="0.2"/>
+
+      <circle r="2.5" fill="#c5ff4a" opacity="0.9" filter="url(#glow-widget_1790259557869)">
+        <animateMotion dur="2.5s" repeatCount="indefinite" path="M200 52 C266 52,334 52,400 52"/>
+      </circle>
+    
+
+      <circle r="2.5" fill="#c5ff4a" opacity="0.9" filter="url(#glow-widget_1790259557869)">
+        <animateMotion dur="3.2s" repeatCount="indefinite" path="M200 52 C266 52,334 104,400 104"/>
+      </circle>
+    
+
+      <circle r="2.5" fill="#c5ff4a" opacity="0.9" filter="url(#glow-widget_1790259557869)">
+        <animateMotion dur="3.9s" repeatCount="indefinite" path="M200 52 C266 52,334 156,400 156"/>
+      </circle>
+    
+
+      <circle r="2.5" fill="#c5ff4a" opacity="0.9" filter="url(#glow-widget_1790259557869)">
+        <animateMotion dur="2.5s" repeatCount="indefinite" path="M200 52 C266 52,334 208,400 208"/>
+      </circle>
+    
+
+      <circle r="2.5" fill="#c5ff4a" opacity="0.9" filter="url(#glow-widget_1790259557869)">
+        <animateMotion dur="3.2s" repeatCount="indefinite" path="M200 104 C266 104,334 52,400 52"/>
+      </circle>
+    
+
+      <circle r="2.5" fill="#c5ff4a" opacity="0.9" filter="url(#glow-widget_1790259557869)">
+        <animateMotion dur="3.9s" repeatCount="indefinite" path="M200 104 C266 104,334 104,400 104"/>
+      </circle>
+    
+
+      <circle r="2.5" fill="#c5ff4a" opacity="0.9" filter="url(#glow-widget_1790259557869)">
+        <animateMotion dur="2.5s" repeatCount="indefinite" path="M200 104 C266 104,334 156,400 156"/>
+      </circle>
+    
+
+      <circle r="2.5" fill="#c5ff4a" opacity="0.9" filter="url(#glow-widget_1790259557869)">
+        <animateMotion dur="3.2s" repeatCount="indefinite" path="M200 104 C266 104,334 208,400 208"/>
+      </circle>
+    
+
+      <circle r="2.5" fill="#c5ff4a" opacity="0.9" filter="url(#glow-widget_1790259557869)">
+        <animateMotion dur="3.9s" repeatCount="indefinite" path="M200 156 C266 156,334 52,400 52"/>
+      </circle>
+    
+
+      <circle r="2.5" fill="#c5ff4a" opacity="0.9" filter="url(#glow-widget_1790259557869)">
+        <animateMotion dur="2.5s" repeatCount="indefinite" path="M200 156 C266 156,334 104,400 104"/>
+      </circle>
+    
+
+      <circle r="2.5" fill="#c5ff4a" opacity="0.9" filter="url(#glow-widget_1790259557869)">
+        <animateMotion dur="3.2s" repeatCount="indefinite" path="M200 156 C266 156,334 156,400 156"/>
+      </circle>
+    
+
+      <circle r="2.5" fill="#c5ff4a" opacity="0.9" filter="url(#glow-widget_1790259557869)">
+        <animateMotion dur="3.9s" repeatCount="indefinite" path="M200 156 C266 156,334 208,400 208"/>
+      </circle>
+    
+
+      <circle r="2.5" fill="#c5ff4a" opacity="0.9" filter="url(#glow-widget_1790259557869)">
+        <animateMotion dur="2.5s" repeatCount="indefinite" path="M200 208 C266 208,334 52,400 52"/>
+      </circle>
+    
+
+      <circle r="2.5" fill="#c5ff4a" opacity="0.9" filter="url(#glow-widget_1790259557869)">
+        <animateMotion dur="3.2s" repeatCount="indefinite" path="M200 208 C266 208,334 104,400 104"/>
+      </circle>
+    
+
+      <circle r="2.5" fill="#c5ff4a" opacity="0.9" filter="url(#glow-widget_1790259557869)">
+        <animateMotion dur="3.9s" repeatCount="indefinite" path="M200 208 C266 208,334 156,400 156"/>
+      </circle>
+    
+
+      <circle r="2.5" fill="#c5ff4a" opacity="0.9" filter="url(#glow-widget_1790259557869)">
+        <animateMotion dur="2.5s" repeatCount="indefinite" path="M200 208 C266 208,334 208,400 208"/>
+      </circle>
+    
+
+      <circle r="2.5" fill="#c5ff4a" opacity="0.9" filter="url(#glow-widget_1790259557869)">
+        <animateMotion dur="3.2s" repeatCount="indefinite" path="M400 52 C466 52,534 65,600 65"/>
+      </circle>
+    
+
+      <circle r="2.5" fill="#c5ff4a" opacity="0.9" filter="url(#glow-widget_1790259557869)">
+        <animateMotion dur="3.9s" repeatCount="indefinite" path="M400 52 C466 52,534 130,600 130"/>
+      </circle>
+    
+
+      <circle r="2.5" fill="#c5ff4a" opacity="0.9" filter="url(#glow-widget_1790259557869)">
+        <animateMotion dur="2.5s" repeatCount="indefinite" path="M400 52 C466 52,534 195,600 195"/>
+      </circle>
+    
+
+      <circle r="2.5" fill="#c5ff4a" opacity="0.9" filter="url(#glow-widget_1790259557869)">
+        <animateMotion dur="3.2s" repeatCount="indefinite" path="M400 104 C466 104,534 65,600 65"/>
+      </circle>
+    
+
+      <circle r="2.5" fill="#c5ff4a" opacity="0.9" filter="url(#glow-widget_1790259557869)">
+        <animateMotion dur="3.9s" repeatCount="indefinite" path="M400 104 C466 104,534 130,600 130"/>
+      </circle>
+    
+
+      <circle r="2.5" fill="#c5ff4a" opacity="0.9" filter="url(#glow-widget_1790259557869)">
+        <animateMotion dur="2.5s" repeatCount="indefinite" path="M400 104 C466 104,534 195,600 195"/>
+      </circle>
+    
+
+      <circle r="2.5" fill="#c5ff4a" opacity="0.9" filter="url(#glow-widget_1790259557869)">
+        <animateMotion dur="3.2s" repeatCount="indefinite" path="M400 156 C466 156,534 65,600 65"/>
+      </circle>
+    
+
+      <circle r="2.5" fill="#c5ff4a" opacity="0.9" filter="url(#glow-widget_1790259557869)">
+        <animateMotion dur="3.9s" repeatCount="indefinite" path="M400 156 C466 156,534 130,600 130"/>
+      </circle>
+    
+
+      <circle r="2.5" fill="#c5ff4a" opacity="0.9" filter="url(#glow-widget_1790259557869)">
+        <animateMotion dur="2.5s" repeatCount="indefinite" path="M400 156 C466 156,534 195,600 195"/>
+      </circle>
+    
+
+      <circle r="2.5" fill="#c5ff4a" opacity="0.9" filter="url(#glow-widget_1790259557869)">
+        <animateMotion dur="3.2s" repeatCount="indefinite" path="M400 208 C466 208,534 65,600 65"/>
+      </circle>
+    
+
+      <circle r="2.5" fill="#c5ff4a" opacity="0.9" filter="url(#glow-widget_1790259557869)">
+        <animateMotion dur="3.9s" repeatCount="indefinite" path="M400 208 C466 208,534 130,600 130"/>
+      </circle>
+    
+
+      <circle r="2.5" fill="#c5ff4a" opacity="0.9" filter="url(#glow-widget_1790259557869)">
+        <animateMotion dur="2.5s" repeatCount="indefinite" path="M400 208 C466 208,534 195,600 195"/>
+      </circle>
+    
+
+      <text x="200" y="18" text-anchor="middle" font-family="Consolas, monospace" font-size="10" fill="#c5ff4a" opacity="0.7" font-weight="bold" letter-spacing="2">FRONTEND</text>
+    
+
+        <circle cx="200" cy="52" r="22" fill="url(#nglow-widget_1790259557869)" opacity="0.5"/>
+        <circle cx="200" cy="52" r="14" fill="#151c25" stroke="#c5ff4a" stroke-width="1.5" opacity="0.9"/>
+        <circle cx="200" cy="52" r="5" fill="#c5ff4a" filter="url(#glow-widget_1790259557869)"/>
+        <text x="200" y="80" text-anchor="middle" font-family="Consolas, monospace" font-size="11" fill="#e5e5e5" opacity="0.9">React</text>
+      
+
+        <circle cx="200" cy="104" r="22" fill="url(#nglow-widget_1790259557869)" opacity="0.5"/>
+        <circle cx="200" cy="104" r="14" fill="#151c25" stroke="#c5ff4a" stroke-width="1.5" opacity="0.9"/>
+        <circle cx="200" cy="104" r="5" fill="#c5ff4a" filter="url(#glow-widget_1790259557869)"/>
+        <text x="200" y="132" text-anchor="middle" font-family="Consolas, monospace" font-size="11" fill="#e5e5e5" opacity="0.9">Python</text>
+      
+
+        <circle cx="200" cy="156" r="22" fill="url(#nglow-widget_1790259557869)" opacity="0.5"/>
+        <circle cx="200" cy="156" r="14" fill="#151c25" stroke="#c5ff4a" stroke-width="1.5" opacity="0.9"/>
+        <circle cx="200" cy="156" r="5" fill="#c5ff4a" filter="url(#glow-widget_1790259557869)"/>
+        <text x="200" y="184" text-anchor="middle" font-family="Consolas, monospace" font-size="11" fill="#e5e5e5" opacity="0.9">DART</text>
+      
+
+        <circle cx="200" cy="208" r="22" fill="url(#nglow-widget_1790259557869)" opacity="0.5"/>
+        <circle cx="200" cy="208" r="14" fill="#151c25" stroke="#c5ff4a" stroke-width="1.5" opacity="0.9"/>
+        <circle cx="200" cy="208" r="5" fill="#c5ff4a" filter="url(#glow-widget_1790259557869)"/>
+        <text x="200" y="236" text-anchor="middle" font-family="Consolas, monospace" font-size="11" fill="#e5e5e5" opacity="0.9">JAVA</text>
+      
+
+      <text x="400" y="18" text-anchor="middle" font-family="Consolas, monospace" font-size="10" fill="#c5ff4a" opacity="0.7" font-weight="bold" letter-spacing="2">BACKEND</text>
+    
+
+        <circle cx="400" cy="52" r="22" fill="url(#nglow-widget_1790259557869)" opacity="0.5"/>
+        <circle cx="400" cy="52" r="14" fill="#151c25" stroke="#c5ff4a" stroke-width="1.5" opacity="0.9"/>
+        <circle cx="400" cy="52" r="5" fill="#c5ff4a" filter="url(#glow-widget_1790259557869)"/>
+        <text x="400" y="80" text-anchor="middle" font-family="Consolas, monospace" font-size="11" fill="#e5e5e5" opacity="0.9">Node.js</text>
+      
+
+        <circle cx="400" cy="104" r="22" fill="url(#nglow-widget_1790259557869)" opacity="0.5"/>
+        <circle cx="400" cy="104" r="14" fill="#151c25" stroke="#c5ff4a" stroke-width="1.5" opacity="0.9"/>
+        <circle cx="400" cy="104" r="5" fill="#c5ff4a" filter="url(#glow-widget_1790259557869)"/>
+        <text x="400" y="132" text-anchor="middle" font-family="Consolas, monospace" font-size="11" fill="#e5e5e5" opacity="0.9">Postgres</text>
+      
+
+        <circle cx="400" cy="156" r="22" fill="url(#nglow-widget_1790259557869)" opacity="0.5"/>
+        <circle cx="400" cy="156" r="14" fill="#151c25" stroke="#c5ff4a" stroke-width="1.5" opacity="0.9"/>
+        <circle cx="400" cy="156" r="5" fill="#c5ff4a" filter="url(#glow-widget_1790259557869)"/>
+        <text x="400" y="184" text-anchor="middle" font-family="Consolas, monospace" font-size="11" fill="#e5e5e5" opacity="0.9">Docker</text>
+      
+
+        <circle cx="400" cy="208" r="22" fill="url(#nglow-widget_1790259557869)" opacity="0.5"/>
+        <circle cx="400" cy="208" r="14" fill="#151c25" stroke="#c5ff4a" stroke-width="1.5" opacity="0.9"/>
+        <circle cx="400" cy="208" r="5" fill="#c5ff4a" filter="url(#glow-widget_1790259557869)"/>
+        <text x="400" y="236" text-anchor="middle" font-family="Consolas, monospace" font-size="11" fill="#e5e5e5" opacity="0.9">VITE</text>
+      
+
+      <text x="600" y="18" text-anchor="middle" font-family="Consolas, monospace" font-size="10" fill="#c5ff4a" opacity="0.7" font-weight="bold" letter-spacing="2">DEVOPS</text>
+    
+
+        <circle cx="600" cy="65" r="22" fill="url(#nglow-widget_1790259557869)" opacity="0.5"/>
+        <circle cx="600" cy="65" r="14" fill="#151c25" stroke="#c5ff4a" stroke-width="1.5" opacity="0.9"/>
+        <circle cx="600" cy="65" r="5" fill="#c5ff4a" filter="url(#glow-widget_1790259557869)"/>
+        <text x="600" y="93" text-anchor="middle" font-family="Consolas, monospace" font-size="11" fill="#e5e5e5" opacity="0.9">Git</text>
+      
+
+        <circle cx="600" cy="130" r="22" fill="url(#nglow-widget_1790259557869)" opacity="0.5"/>
+        <circle cx="600" cy="130" r="14" fill="#151c25" stroke="#c5ff4a" stroke-width="1.5" opacity="0.9"/>
+        <circle cx="600" cy="130" r="5" fill="#c5ff4a" filter="url(#glow-widget_1790259557869)"/>
+        <text x="600" y="158" text-anchor="middle" font-family="Consolas, monospace" font-size="11" fill="#e5e5e5" opacity="0.9">GitHub</text>
+      
+
+        <circle cx="600" cy="195" r="22" fill="url(#nglow-widget_1790259557869)" opacity="0.5"/>
+        <circle cx="600" cy="195" r="14" fill="#151c25" stroke="#c5ff4a" stroke-width="1.5" opacity="0.9"/>
+        <circle cx="600" cy="195" r="5" fill="#c5ff4a" filter="url(#glow-widget_1790259557869)"/>
+        <text x="600" y="223" text-anchor="middle" font-family="Consolas, monospace" font-size="11" fill="#e5e5e5" opacity="0.9">Docker</text>
+      
+    </svg>
+  
+  
+    </g>
+  
+
+    <g transform="translate(0, 1074)" id="widget-widget_1790262980684">
+
+      
+      
+      
+      
+      
+    <svg width="800" height="40" viewBox="0 0 800 44" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg">
+      <g>
+        <rect x="0" y="0" width="800" height="44" fill="rgba(8,8,13,0.6)" />
+        <text x="400" y="27" text-anchor="middle" font-family="'SF Pro Text', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" letter-spacing="0.4">
+          <tspan fill="rgba(255,255,255,0.45)">crafted with precision by </tspan>
+          <tspan fill="#ffffff" font-weight="700">Umar Faizer </tspan>
+          <tspan fill="rgba(255,255,255,0.45)">.</tspan>
+        </text>
+      </g>
+    </svg>
+  
+  
+    </g>
+  
+
+    <g transform="translate(0, 882)" id="widget-widget_1790263166558">
+
+      
+      
+      <rect class="" x="0" y="0" width="800" height="184" fill="transparent" stroke="#252525" stroke-width="1" rx="0" />
+      
+      
+    <text x="24" y="32" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="500" fill="#7a7a7a" letter-spacing="2">[ DEVELOPER QUOTE ]</text>
+    <g class="developer-quote-card">
+      <rect x="12" y="44" width="776" height="128" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1" />
+      
+      <g transform="translate(28, 72)">
+        <path d="M3 21c3 0 7-1 7-8V5c0-1.25-.75-2-2-2H4c-1.25 0-2 .75-2 2v6c0 1.25.75 2 2 2h3c-.5 4-2 6-4 6zM17 21c3 0 7-1 7-8V5c0-1.25-.75-2-2-2h-4c-1.25 0-2 .75-2 2v6c0 1.25.75 2 2 2h3c-.5 4-2 6-4 6z" fill="#c5ff4a" transform="scale(0.7)" opacity="0.85" />
+      </g>
+
+      <text font-family="'JetBrains Mono', monospace" font-size="13" font-weight="500" fill="#e6edf3" font-style="italic">
+        <tspan x="58" y="86">“Measuring programming progress by lines of code is like measuring aircraft</tspan><tspan x="58" y="106">building progress by weight.”</tspan>
+      </text>
+
+      <text x="768" y="144" text-anchor="end" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="600" fill="#8b949e" letter-spacing="0.5">
+        — Bill Gates
+      </text>
+
+      <circle cx="770" cy="62" r="3" fill="#c5ff4a" opacity="0.9" />
+    </g>
+  
+  
+    </g>
+  
+
+    <g transform="translate(0, 644)" id="widget-widget_1790264023537">
+
+      
+      
+      
+      
+      <svg xmlns="http://www.w3.org/2000/svg" width="800" height="240" viewBox="0 0 800 240" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+<style>@keyframes cell-widget_1790264023537 {  0%   { opacity: 0; transform: translateY(-6px); }  100% { opacity: 1; transform: translateY(0); }}.c-widget_1790264023537 { opacity: 0; animation: cell-widget_1790264023537 0.42s cubic-bezier(.2,.8,.2,1) both; }</style>
+<defs><linearGradient id="heatmap-bg-widget_1790264023537" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0d1420"/><stop offset="1" stop-color="#1f1f1f"/></linearGradient></defs>
+<rect width="800" height="240" rx="12" fill="url(#heatmap-bg-widget_1790264023537)"/>
+<rect x="0.5" y="0.5" width="799" height="239" rx="12" fill="none" stroke="#252525" stroke-width="1" stroke-opacity="0.55"/>
+<line x1="0" y1="30" x2="800" y2="30" stroke="#252525" stroke-opacity="0.35"/>
+<circle cx="22" cy="15" r="5" fill="#ff5f56"/>
+<circle cx="38" cy="15" r="5" fill="#ffbd2e"/>
+<circle cx="54" cy="15" r="5" fill="#27c93f"/>
+<text x="400" y="19" fill="#7d8590" font-size="12" text-anchor="middle">faizerumar@github: ~/contributions --graph</text>
+<text x="79.5" y="44" fill="#7d8590" font-size="10">Oct</text>
+<text x="134.5" y="44" fill="#7d8590" font-size="10">Nov</text>
+<text x="203.25" y="44" fill="#7d8590" font-size="10">Dec</text>
+<text x="258.25" y="44" fill="#7d8590" font-size="10">Jan</text>
+<text x="313.25" y="44" fill="#7d8590" font-size="10">Feb</text>
+<text x="368.25" y="44" fill="#7d8590" font-size="10">Mar</text>
+<text x="437" y="44" fill="#7d8590" font-size="10">Apr</text>
+<text x="492" y="44" fill="#7d8590" font-size="10">May</text>
+<text x="560.75" y="44" fill="#7d8590" font-size="10">Jun</text>
+<text x="615.75" y="44" fill="#7d8590" font-size="10">Jul</text>
+<text x="670.75" y="44" fill="#7d8590" font-size="10">Aug</text>
+<text x="739.5" y="44" fill="#7d8590" font-size="10">Sep</text>
+<text x="22" y="72.3" fill="#7d8590" font-size="9">Mon</text>
+<text x="22" y="99.8" fill="#7d8590" font-size="9">Wed</text>
+<text x="22" y="127.3" fill="#7d8590" font-size="9">Fri</text>
+<rect class="c-widget_1790264023537" style="animation-delay:0.000s" x="52" y="50" width="11" height="11" rx="2.5" fill="#161b22"><title>2025-09-21: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.045s" x="52" y="63.75" width="11" height="11" rx="2.5" fill="#161b22"><title>2025-09-22: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.090s" x="52" y="77.5" width="11" height="11" rx="2.5" fill="#161b22"><title>2025-09-23: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.135s" x="52" y="91.25" width="11" height="11" rx="2.5" fill="#161b22"><title>2025-09-24: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.180s" x="52" y="105" width="11" height="11" rx="2.5" fill="#161b22"><title>2025-09-25: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.225s" x="52" y="118.75" width="11" height="11" rx="2.5" fill="#161b22"><title>2025-09-26: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.270s" x="52" y="132.5" width="11" height="11" rx="2.5" fill="#161b22"><title>2025-09-27: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.018s" x="65.75" y="50" width="11" height="11" rx="2.5" fill="#161b22"><title>2025-09-28: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.063s" x="65.75" y="63.75" width="11" height="11" rx="2.5" fill="#161b22"><title>2025-09-29: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.108s" x="65.75" y="77.5" width="11" height="11" rx="2.5" fill="#161b22"><title>2025-09-30: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.153s" x="65.75" y="91.25" width="11" height="11" rx="2.5" fill="#161b22"><title>2025-10-01: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.198s" x="65.75" y="105" width="11" height="11" rx="2.5" fill="#161b22"><title>2025-10-02: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.243s" x="65.75" y="118.75" width="11" height="11" rx="2.5" fill="#161b22"><title>2025-10-03: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.288s" x="65.75" y="132.5" width="11" height="11" rx="2.5" fill="#161b22"><title>2025-10-04: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.036s" x="79.5" y="50" width="11" height="11" rx="2.5" fill="#161b22"><title>2025-10-05: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.081s" x="79.5" y="63.75" width="11" height="11" rx="2.5" fill="#161b22"><title>2025-10-06: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.126s" x="79.5" y="77.5" width="11" height="11" rx="2.5" fill="#161b22"><title>2025-10-07: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.171s" x="79.5" y="91.25" width="11" height="11" rx="2.5" fill="#161b22"><title>2025-10-08: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.216s" x="79.5" y="105" width="11" height="11" rx="2.5" fill="#161b22"><title>2025-10-09: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.261s" x="79.5" y="118.75" width="11" height="11" rx="2.5" fill="#161b22"><title>2025-10-10: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.306s" x="79.5" y="132.5" width="11" height="11" rx="2.5" fill="#161b22"><title>2025-10-11: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.054s" x="93.25" y="50" width="11" height="11" rx="2.5" fill="#161b22"><title>2025-10-12: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.099s" x="93.25" y="63.75" width="11" height="11" rx="2.5" fill="#161b22"><title>2025-10-13: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.144s" x="93.25" y="77.5" width="11" height="11" rx="2.5" fill="#161b22"><title>2025-10-14: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.189s" x="93.25" y="91.25" width="11" height="11" rx="2.5" fill="#161b22"><title>2025-10-15: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.234s" x="93.25" y="105" width="11" height="11" rx="2.5" fill="#161b22"><title>2025-10-16: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.279s" x="93.25" y="118.75" width="11" height="11" rx="2.5" fill="#161b22"><title>2025-10-17: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.324s" x="93.25" y="132.5" width="11" height="11" rx="2.5" fill="#161b22"><title>2025-10-18: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.072s" x="107" y="50" width="11" height="11" rx="2.5" fill="#161b22"><title>2025-10-19: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.117s" x="107" y="63.75" width="11" height="11" rx="2.5" fill="#161b22"><title>2025-10-20: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.162s" x="107" y="77.5" width="11" height="11" rx="2.5" fill="#161b22"><title>2025-10-21: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.207s" x="107" y="91.25" width="11" height="11" rx="2.5" fill="#161b22"><title>2025-10-22: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.252s" x="107" y="105" width="11" height="11" rx="2.5" fill="#161b22"><title>2025-10-23: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.297s" x="107" y="118.75" width="11" height="11" rx="2.5" fill="#161b22"><title>2025-10-24: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.342s" x="107" y="132.5" width="11" height="11" rx="2.5" fill="#161b22"><title>2025-10-25: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.090s" x="120.75" y="50" width="11" height="11" rx="2.5" fill="#161b22"><title>2025-10-26: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.135s" x="120.75" y="63.75" width="11" height="11" rx="2.5" fill="#161b22"><title>2025-10-27: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.180s" x="120.75" y="77.5" width="11" height="11" rx="2.5" fill="#161b22"><title>2025-10-28: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.225s" x="120.75" y="91.25" width="11" height="11" rx="2.5" fill="#161b22"><title>2025-10-29: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.270s" x="120.75" y="105" width="11" height="11" rx="2.5" fill="#161b22"><title>2025-10-30: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.315s" x="120.75" y="118.75" width="11" height="11" rx="2.5" fill="#161b22"><title>2025-10-31: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.360s" x="120.75" y="132.5" width="11" height="11" rx="2.5" fill="#161b22"><title>2025-11-01: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.108s" x="134.5" y="50" width="11" height="11" rx="2.5" fill="#161b22"><title>2025-11-02: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.153s" x="134.5" y="63.75" width="11" height="11" rx="2.5" fill="#161b22"><title>2025-11-03: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.198s" x="134.5" y="77.5" width="11" height="11" rx="2.5" fill="#161b22"><title>2025-11-04: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.243s" x="134.5" y="91.25" width="11" height="11" rx="2.5" fill="#161b22"><title>2025-11-05: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.288s" x="134.5" y="105" width="11" height="11" rx="2.5" fill="#161b22"><title>2025-11-06: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.333s" x="134.5" y="118.75" width="11" height="11" rx="2.5" fill="#161b22"><title>2025-11-07: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.378s" x="134.5" y="132.5" width="11" height="11" rx="2.5" fill="#161b22"><title>2025-11-08: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.126s" x="148.25" y="50" width="11" height="11" rx="2.5" fill="#161b22"><title>2025-11-09: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.171s" x="148.25" y="63.75" width="11" height="11" rx="2.5" fill="#161b22"><title>2025-11-10: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.216s" x="148.25" y="77.5" width="11" height="11" rx="2.5" fill="#161b22"><title>2025-11-11: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.261s" x="148.25" y="91.25" width="11" height="11" rx="2.5" fill="#161b22"><title>2025-11-12: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.306s" x="148.25" y="105" width="11" height="11" rx="2.5" fill="#161b22"><title>2025-11-13: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.351s" x="148.25" y="118.75" width="11" height="11" rx="2.5" fill="#161b22"><title>2025-11-14: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.396s" x="148.25" y="132.5" width="11" height="11" rx="2.5" fill="#161b22"><title>2025-11-15: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.144s" x="162" y="50" width="11" height="11" rx="2.5" fill="#450a0a"><title>2025-11-16: 1 contribution</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.189s" x="162" y="63.75" width="11" height="11" rx="2.5" fill="#161b22"><title>2025-11-17: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.234s" x="162" y="77.5" width="11" height="11" rx="2.5" fill="#161b22"><title>2025-11-18: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.279s" x="162" y="91.25" width="11" height="11" rx="2.5" fill="#161b22"><title>2025-11-19: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.324s" x="162" y="105" width="11" height="11" rx="2.5" fill="#161b22"><title>2025-11-20: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.369s" x="162" y="118.75" width="11" height="11" rx="2.5" fill="#161b22"><title>2025-11-21: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.414s" x="162" y="132.5" width="11" height="11" rx="2.5" fill="#161b22"><title>2025-11-22: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.162s" x="175.75" y="50" width="11" height="11" rx="2.5" fill="#161b22"><title>2025-11-23: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.207s" x="175.75" y="63.75" width="11" height="11" rx="2.5" fill="#161b22"><title>2025-11-24: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.252s" x="175.75" y="77.5" width="11" height="11" rx="2.5" fill="#161b22"><title>2025-11-25: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.297s" x="175.75" y="91.25" width="11" height="11" rx="2.5" fill="#161b22"><title>2025-11-26: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.342s" x="175.75" y="105" width="11" height="11" rx="2.5" fill="#161b22"><title>2025-11-27: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.387s" x="175.75" y="118.75" width="11" height="11" rx="2.5" fill="#161b22"><title>2025-11-28: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.432s" x="175.75" y="132.5" width="11" height="11" rx="2.5" fill="#161b22"><title>2025-11-29: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.180s" x="189.5" y="50" width="11" height="11" rx="2.5" fill="#161b22"><title>2025-11-30: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.225s" x="189.5" y="63.75" width="11" height="11" rx="2.5" fill="#161b22"><title>2025-12-01: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.270s" x="189.5" y="77.5" width="11" height="11" rx="2.5" fill="#161b22"><title>2025-12-02: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.315s" x="189.5" y="91.25" width="11" height="11" rx="2.5" fill="#161b22"><title>2025-12-03: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.360s" x="189.5" y="105" width="11" height="11" rx="2.5" fill="#161b22"><title>2025-12-04: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.405s" x="189.5" y="118.75" width="11" height="11" rx="2.5" fill="#161b22"><title>2025-12-05: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.450s" x="189.5" y="132.5" width="11" height="11" rx="2.5" fill="#161b22"><title>2025-12-06: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.198s" x="203.25" y="50" width="11" height="11" rx="2.5" fill="#161b22"><title>2025-12-07: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.243s" x="203.25" y="63.75" width="11" height="11" rx="2.5" fill="#161b22"><title>2025-12-08: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.288s" x="203.25" y="77.5" width="11" height="11" rx="2.5" fill="#161b22"><title>2025-12-09: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.333s" x="203.25" y="91.25" width="11" height="11" rx="2.5" fill="#161b22"><title>2025-12-10: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.378s" x="203.25" y="105" width="11" height="11" rx="2.5" fill="#161b22"><title>2025-12-11: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.423s" x="203.25" y="118.75" width="11" height="11" rx="2.5" fill="#161b22"><title>2025-12-12: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.468s" x="203.25" y="132.5" width="11" height="11" rx="2.5" fill="#161b22"><title>2025-12-13: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.216s" x="217" y="50" width="11" height="11" rx="2.5" fill="#161b22"><title>2025-12-14: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.261s" x="217" y="63.75" width="11" height="11" rx="2.5" fill="#161b22"><title>2025-12-15: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.306s" x="217" y="77.5" width="11" height="11" rx="2.5" fill="#161b22"><title>2025-12-16: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.351s" x="217" y="91.25" width="11" height="11" rx="2.5" fill="#161b22"><title>2025-12-17: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.396s" x="217" y="105" width="11" height="11" rx="2.5" fill="#161b22"><title>2025-12-18: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.441s" x="217" y="118.75" width="11" height="11" rx="2.5" fill="#161b22"><title>2025-12-19: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.486s" x="217" y="132.5" width="11" height="11" rx="2.5" fill="#161b22"><title>2025-12-20: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.234s" x="230.75" y="50" width="11" height="11" rx="2.5" fill="#161b22"><title>2025-12-21: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.279s" x="230.75" y="63.75" width="11" height="11" rx="2.5" fill="#161b22"><title>2025-12-22: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.324s" x="230.75" y="77.5" width="11" height="11" rx="2.5" fill="#161b22"><title>2025-12-23: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.369s" x="230.75" y="91.25" width="11" height="11" rx="2.5" fill="#161b22"><title>2025-12-24: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.414s" x="230.75" y="105" width="11" height="11" rx="2.5" fill="#161b22"><title>2025-12-25: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.459s" x="230.75" y="118.75" width="11" height="11" rx="2.5" fill="#161b22"><title>2025-12-26: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.504s" x="230.75" y="132.5" width="11" height="11" rx="2.5" fill="#161b22"><title>2025-12-27: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.252s" x="244.5" y="50" width="11" height="11" rx="2.5" fill="#161b22"><title>2025-12-28: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.297s" x="244.5" y="63.75" width="11" height="11" rx="2.5" fill="#161b22"><title>2025-12-29: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.342s" x="244.5" y="77.5" width="11" height="11" rx="2.5" fill="#161b22"><title>2025-12-30: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.387s" x="244.5" y="91.25" width="11" height="11" rx="2.5" fill="#161b22"><title>2025-12-31: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.432s" x="244.5" y="105" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-01-01: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.477s" x="244.5" y="118.75" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-01-02: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.522s" x="244.5" y="132.5" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-01-03: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.270s" x="258.25" y="50" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-01-04: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.315s" x="258.25" y="63.75" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-01-05: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.360s" x="258.25" y="77.5" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-01-06: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.405s" x="258.25" y="91.25" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-01-07: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.450s" x="258.25" y="105" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-01-08: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.495s" x="258.25" y="118.75" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-01-09: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.540s" x="258.25" y="132.5" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-01-10: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.288s" x="272" y="50" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-01-11: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.333s" x="272" y="63.75" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-01-12: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.378s" x="272" y="77.5" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-01-13: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.423s" x="272" y="91.25" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-01-14: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.468s" x="272" y="105" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-01-15: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.513s" x="272" y="118.75" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-01-16: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.558s" x="272" y="132.5" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-01-17: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.306s" x="285.75" y="50" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-01-18: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.351s" x="285.75" y="63.75" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-01-19: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.396s" x="285.75" y="77.5" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-01-20: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.441s" x="285.75" y="91.25" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-01-21: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.486s" x="285.75" y="105" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-01-22: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.531s" x="285.75" y="118.75" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-01-23: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.576s" x="285.75" y="132.5" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-01-24: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.324s" x="299.5" y="50" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-01-25: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.369s" x="299.5" y="63.75" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-01-26: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.414s" x="299.5" y="77.5" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-01-27: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.459s" x="299.5" y="91.25" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-01-28: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.504s" x="299.5" y="105" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-01-29: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.549s" x="299.5" y="118.75" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-01-30: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.594s" x="299.5" y="132.5" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-01-31: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.342s" x="313.25" y="50" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-02-01: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.387s" x="313.25" y="63.75" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-02-02: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.432s" x="313.25" y="77.5" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-02-03: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.477s" x="313.25" y="91.25" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-02-04: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.522s" x="313.25" y="105" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-02-05: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.567s" x="313.25" y="118.75" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-02-06: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.612s" x="313.25" y="132.5" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-02-07: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.360s" x="327" y="50" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-02-08: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.405s" x="327" y="63.75" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-02-09: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.450s" x="327" y="77.5" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-02-10: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.495s" x="327" y="91.25" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-02-11: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.540s" x="327" y="105" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-02-12: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.585s" x="327" y="118.75" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-02-13: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.630s" x="327" y="132.5" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-02-14: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.378s" x="340.75" y="50" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-02-15: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.423s" x="340.75" y="63.75" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-02-16: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.468s" x="340.75" y="77.5" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-02-17: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.513s" x="340.75" y="91.25" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-02-18: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.558s" x="340.75" y="105" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-02-19: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.603s" x="340.75" y="118.75" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-02-20: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.648s" x="340.75" y="132.5" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-02-21: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.396s" x="354.5" y="50" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-02-22: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.441s" x="354.5" y="63.75" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-02-23: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.486s" x="354.5" y="77.5" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-02-24: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.531s" x="354.5" y="91.25" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-02-25: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.576s" x="354.5" y="105" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-02-26: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.621s" x="354.5" y="118.75" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-02-27: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.666s" x="354.5" y="132.5" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-02-28: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.414s" x="368.25" y="50" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-03-01: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.459s" x="368.25" y="63.75" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-03-02: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.504s" x="368.25" y="77.5" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-03-03: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.549s" x="368.25" y="91.25" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-03-04: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.594s" x="368.25" y="105" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-03-05: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.639s" x="368.25" y="118.75" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-03-06: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.684s" x="368.25" y="132.5" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-03-07: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.432s" x="382" y="50" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-03-08: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.477s" x="382" y="63.75" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-03-09: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.522s" x="382" y="77.5" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-03-10: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.567s" x="382" y="91.25" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-03-11: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.612s" x="382" y="105" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-03-12: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.657s" x="382" y="118.75" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-03-13: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.702s" x="382" y="132.5" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-03-14: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.450s" x="395.75" y="50" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-03-15: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.495s" x="395.75" y="63.75" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-03-16: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.540s" x="395.75" y="77.5" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-03-17: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.585s" x="395.75" y="91.25" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-03-18: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.630s" x="395.75" y="105" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-03-19: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.675s" x="395.75" y="118.75" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-03-20: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.720s" x="395.75" y="132.5" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-03-21: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.468s" x="409.5" y="50" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-03-22: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.513s" x="409.5" y="63.75" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-03-23: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.558s" x="409.5" y="77.5" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-03-24: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.603s" x="409.5" y="91.25" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-03-25: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.648s" x="409.5" y="105" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-03-26: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.693s" x="409.5" y="118.75" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-03-27: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.738s" x="409.5" y="132.5" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-03-28: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.486s" x="423.25" y="50" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-03-29: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.531s" x="423.25" y="63.75" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-03-30: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.576s" x="423.25" y="77.5" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-03-31: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.621s" x="423.25" y="91.25" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-04-01: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.666s" x="423.25" y="105" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-04-02: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.711s" x="423.25" y="118.75" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-04-03: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.756s" x="423.25" y="132.5" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-04-04: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.504s" x="437" y="50" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-04-05: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.549s" x="437" y="63.75" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-04-06: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.594s" x="437" y="77.5" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-04-07: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.639s" x="437" y="91.25" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-04-08: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.684s" x="437" y="105" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-04-09: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.729s" x="437" y="118.75" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-04-10: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.774s" x="437" y="132.5" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-04-11: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.522s" x="450.75" y="50" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-04-12: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.567s" x="450.75" y="63.75" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-04-13: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.612s" x="450.75" y="77.5" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-04-14: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.657s" x="450.75" y="91.25" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-04-15: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.702s" x="450.75" y="105" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-04-16: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.747s" x="450.75" y="118.75" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-04-17: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.792s" x="450.75" y="132.5" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-04-18: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.540s" x="464.5" y="50" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-04-19: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.585s" x="464.5" y="63.75" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-04-20: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.630s" x="464.5" y="77.5" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-04-21: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.675s" x="464.5" y="91.25" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-04-22: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.720s" x="464.5" y="105" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-04-23: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.765s" x="464.5" y="118.75" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-04-24: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.810s" x="464.5" y="132.5" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-04-25: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.558s" x="478.25" y="50" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-04-26: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.603s" x="478.25" y="63.75" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-04-27: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.648s" x="478.25" y="77.5" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-04-28: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.693s" x="478.25" y="91.25" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-04-29: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.738s" x="478.25" y="105" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-04-30: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.783s" x="478.25" y="118.75" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-05-01: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.828s" x="478.25" y="132.5" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-05-02: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.576s" x="492" y="50" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-05-03: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.621s" x="492" y="63.75" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-05-04: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.666s" x="492" y="77.5" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-05-05: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.711s" x="492" y="91.25" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-05-06: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.756s" x="492" y="105" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-05-07: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.801s" x="492" y="118.75" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-05-08: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.846s" x="492" y="132.5" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-05-09: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.594s" x="505.75" y="50" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-05-10: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.639s" x="505.75" y="63.75" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-05-11: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.684s" x="505.75" y="77.5" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-05-12: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.729s" x="505.75" y="91.25" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-05-13: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.774s" x="505.75" y="105" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-05-14: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.819s" x="505.75" y="118.75" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-05-15: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.864s" x="505.75" y="132.5" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-05-16: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.612s" x="519.5" y="50" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-05-17: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.657s" x="519.5" y="63.75" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-05-18: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.702s" x="519.5" y="77.5" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-05-19: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.747s" x="519.5" y="91.25" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-05-20: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.792s" x="519.5" y="105" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-05-21: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.837s" x="519.5" y="118.75" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-05-22: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.882s" x="519.5" y="132.5" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-05-23: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.630s" x="533.25" y="50" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-05-24: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.675s" x="533.25" y="63.75" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-05-25: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.720s" x="533.25" y="77.5" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-05-26: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.765s" x="533.25" y="91.25" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-05-27: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.810s" x="533.25" y="105" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-05-28: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.855s" x="533.25" y="118.75" width="11" height="11" rx="2.5" fill="#450a0a"><title>2026-05-29: 3 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.900s" x="533.25" y="132.5" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-05-30: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.648s" x="547" y="50" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-05-31: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.693s" x="547" y="63.75" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-06-01: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.738s" x="547" y="77.5" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-06-02: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.783s" x="547" y="91.25" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-06-03: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.828s" x="547" y="105" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-06-04: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.873s" x="547" y="118.75" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-06-05: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.918s" x="547" y="132.5" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-06-06: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.666s" x="560.75" y="50" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-06-07: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.711s" x="560.75" y="63.75" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-06-08: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.756s" x="560.75" y="77.5" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-06-09: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.801s" x="560.75" y="91.25" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-06-10: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.846s" x="560.75" y="105" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-06-11: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.891s" x="560.75" y="118.75" width="11" height="11" rx="2.5" fill="#7f1d1d"><title>2026-06-12: 6 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.936s" x="560.75" y="132.5" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-06-13: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.684s" x="574.5" y="50" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-06-14: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.729s" x="574.5" y="63.75" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-06-15: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.774s" x="574.5" y="77.5" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-06-16: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.819s" x="574.5" y="91.25" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-06-17: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.864s" x="574.5" y="105" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-06-18: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.909s" x="574.5" y="118.75" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-06-19: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.954s" x="574.5" y="132.5" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-06-20: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.702s" x="588.25" y="50" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-06-21: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.747s" x="588.25" y="63.75" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-06-22: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.792s" x="588.25" y="77.5" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-06-23: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.837s" x="588.25" y="91.25" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-06-24: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.882s" x="588.25" y="105" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-06-25: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.927s" x="588.25" y="118.75" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-06-26: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.972s" x="588.25" y="132.5" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-06-27: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.720s" x="602" y="50" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-06-28: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.765s" x="602" y="63.75" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-06-29: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.810s" x="602" y="77.5" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-06-30: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.855s" x="602" y="91.25" width="11" height="11" rx="2.5" fill="#450a0a"><title>2026-07-01: 4 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.900s" x="602" y="105" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-07-02: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.945s" x="602" y="118.75" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-07-03: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.990s" x="602" y="132.5" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-07-04: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.738s" x="615.75" y="50" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-07-05: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.783s" x="615.75" y="63.75" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-07-06: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.828s" x="615.75" y="77.5" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-07-07: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.873s" x="615.75" y="91.25" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-07-08: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.918s" x="615.75" y="105" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-07-09: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.963s" x="615.75" y="118.75" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-07-10: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:1.008s" x="615.75" y="132.5" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-07-11: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.756s" x="629.5" y="50" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-07-12: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.801s" x="629.5" y="63.75" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-07-13: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.846s" x="629.5" y="77.5" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-07-14: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.891s" x="629.5" y="91.25" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-07-15: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.936s" x="629.5" y="105" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-07-16: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.981s" x="629.5" y="118.75" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-07-17: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:1.026s" x="629.5" y="132.5" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-07-18: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.774s" x="643.25" y="50" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-07-19: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.819s" x="643.25" y="63.75" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-07-20: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.864s" x="643.25" y="77.5" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-07-21: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.909s" x="643.25" y="91.25" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-07-22: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.954s" x="643.25" y="105" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-07-23: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.999s" x="643.25" y="118.75" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-07-24: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:1.044s" x="643.25" y="132.5" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-07-25: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.792s" x="657" y="50" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-07-26: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.837s" x="657" y="63.75" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-07-27: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.882s" x="657" y="77.5" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-07-28: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.927s" x="657" y="91.25" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-07-29: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.972s" x="657" y="105" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-07-30: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:1.017s" x="657" y="118.75" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-07-31: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:1.062s" x="657" y="132.5" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-08-01: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.810s" x="670.75" y="50" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-08-02: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.855s" x="670.75" y="63.75" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-08-03: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.900s" x="670.75" y="77.5" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-08-04: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.945s" x="670.75" y="91.25" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-08-05: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.990s" x="670.75" y="105" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-08-06: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:1.035s" x="670.75" y="118.75" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-08-07: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:1.080s" x="670.75" y="132.5" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-08-08: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.828s" x="684.5" y="50" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-08-09: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.873s" x="684.5" y="63.75" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-08-10: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.918s" x="684.5" y="77.5" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-08-11: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.963s" x="684.5" y="91.25" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-08-12: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:1.008s" x="684.5" y="105" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-08-13: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:1.053s" x="684.5" y="118.75" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-08-14: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:1.098s" x="684.5" y="132.5" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-08-15: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.846s" x="698.25" y="50" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-08-16: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.891s" x="698.25" y="63.75" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-08-17: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.936s" x="698.25" y="77.5" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-08-18: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.981s" x="698.25" y="91.25" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-08-19: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:1.026s" x="698.25" y="105" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-08-20: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:1.071s" x="698.25" y="118.75" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-08-21: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:1.116s" x="698.25" y="132.5" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-08-22: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.864s" x="712" y="50" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-08-23: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.909s" x="712" y="63.75" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-08-24: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.954s" x="712" y="77.5" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-08-25: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.999s" x="712" y="91.25" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-08-26: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:1.044s" x="712" y="105" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-08-27: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:1.089s" x="712" y="118.75" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-08-28: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:1.134s" x="712" y="132.5" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-08-29: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.882s" x="725.75" y="50" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-08-30: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.927s" x="725.75" y="63.75" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-08-31: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.972s" x="725.75" y="77.5" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-09-01: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:1.017s" x="725.75" y="91.25" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-09-02: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:1.062s" x="725.75" y="105" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-09-03: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:1.107s" x="725.75" y="118.75" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-09-04: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:1.152s" x="725.75" y="132.5" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-09-05: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.900s" x="739.5" y="50" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-09-06: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.945s" x="739.5" y="63.75" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-09-07: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.990s" x="739.5" y="77.5" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-09-08: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:1.035s" x="739.5" y="91.25" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-09-09: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:1.080s" x="739.5" y="105" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-09-10: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:1.125s" x="739.5" y="118.75" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-09-11: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:1.170s" x="739.5" y="132.5" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-09-12: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.918s" x="753.25" y="50" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-09-13: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.963s" x="753.25" y="63.75" width="11" height="11" rx="2.5" fill="#450a0a"><title>2026-09-14: 4 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:1.008s" x="753.25" y="77.5" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-09-15: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:1.053s" x="753.25" y="91.25" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-09-16: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:1.098s" x="753.25" y="105" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-09-17: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:1.143s" x="753.25" y="118.75" width="11" height="11" rx="2.5" fill="#450a0a"><title>2026-09-18: 2 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:1.188s" x="753.25" y="132.5" width="11" height="11" rx="2.5" fill="#450a0a"><title>2026-09-19: 3 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.936s" x="767" y="50" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-09-20: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:0.981s" x="767" y="63.75" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-09-21: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:1.026s" x="767" y="77.5" width="11" height="11" rx="2.5" fill="#450a0a"><title>2026-09-22: 1 contribution</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:1.071s" x="767" y="91.25" width="11" height="11" rx="2.5" fill="#7f1d1d"><title>2026-09-23: 8 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:1.116s" x="767" y="105" width="11" height="11" rx="2.5" fill="#161b22"><title>2026-09-24: 0 contributions</title></rect>
+<rect class="c-widget_1790264023537" style="animation-delay:1.161s" x="767" y="118.75" width="11" height="11" rx="2.5" fill="#450a0a"><title>2026-09-25: 4 contributions</title></rect>
+<text x="658.25" y="161.1" fill="#7d8590" font-size="10" text-anchor="end">Less</text>
+<rect x="664.25" y="152.25" width="11" height="11" rx="2.2" fill="#161b22"/>
+<rect x="678" y="152.25" width="11" height="11" rx="2.2" fill="#450a0a"/>
+<rect x="691.75" y="152.25" width="11" height="11" rx="2.2" fill="#7f1d1d"/>
+<rect x="705.5" y="152.25" width="11" height="11" rx="2.2" fill="#b91c1c"/>
+<rect x="719.25" y="152.25" width="11" height="11" rx="2.2" fill="#ef4444"/>
+<rect x="733" y="152.25" width="11" height="11" rx="2.2" fill="#f87171"/>
+<text x="778" y="161.1" fill="#7d8590" font-size="10" text-anchor="end">More</text>
+<line x1="0" y1="177.25" x2="800" y2="177.25" stroke="#252525" stroke-opacity="0.25"/>
+<text x="22" y="201.25" font-size="13" fill="#39d353"><tspan font-weight="700">36</tspan><tspan fill="#7d8590"> contributions in the last year</tspan></text>
+<text x="778" y="201.25" font-size="12" fill="#7d8590" text-anchor="end">Sep 21, 2025 &#8594; Sep 25, 2026</text>
+<text x="22" y="225.25" font-size="13" fill="#7d8590">current streak <tspan fill="#c5ff4a" font-weight="700">1 days</tspan><tspan fill="#7d8590">   &#183;   longest </tspan><tspan fill="#c5ff4a" font-weight="700">2 days</tspan></text>
+<text x="778" y="225.25" font-size="12" fill="#7d8590" text-anchor="end">best day <tspan fill="#f2cc60" font-weight="700">8</tspan> on Sep 23, 2026</text>
+</svg>
+  
+    </g>
+  
+</svg>
