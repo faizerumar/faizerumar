@@ -1,5 +1,9 @@
 # Umar Faizer
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/faizerumar/faizerumar/main/assets/spectsman-logo.svg" alt="SPECTSMAN logo" width="900" />
+</p>
+
 <div align="center">
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=700&lines=Software+Developer;AI+Builder;Full-Stack+Engineer;Mobile+%26+Web+Developer" alt="Typing banner" />
