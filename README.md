@@ -6,7 +6,7 @@
 
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=1000&lines=Software+Developer;AI+Builder;Full-Stack+Engineer;Mobile+%26+Web+Developer" alt="Typing banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Software+Developer;AI+Builder;Full-Stack+Engineer;Mobile+%26+Web+Developer" alt="Typing banner" />
 
   <p>
     <a href="https://faizerumar.github.io/1Portfolio-Umar/"><img src="https://img.shields.io/badge/Portfolio-Website-FF6B6B?style=for-the-badge&logo=vercel" alt="Portfolio" /></a>
