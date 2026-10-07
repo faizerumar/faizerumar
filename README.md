@@ -1,4 +1,4 @@
-# <center>UMAR FAIZER</center>
+# UMAR FAIZER
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/faizerumar/faizerumar/main/assets/spectsman-logo.svg" alt="SPECTSMAN logo" width="900" />
@@ -128,5 +128,5 @@ This profile reflects a diverse coding portfolio spanning:
 ---
 
 <p align="center">
-  <i>Building software with purpose.</i>
+  <i><b>Building software with purpose.</b></i>
 </p>
