@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=700&lines=Software+Developer;AI+Builder;Full-Stack+Engineer;Mobile+%26+Web+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=700&lines=Software+Developer;AI+Builder;Full-Stack+Engineer;Mobile+%26+Web+Developer" alt="[...]" />
 
   <p>
     <a href="https://github.com/faizerumar"><img src="https://img.shields.io/badge/GitHub-faizerumar-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
@@ -116,6 +116,7 @@ This profile reflects a diverse coding portfolio spanning:
 ## Connect
 
 - GitHub: [@faizerumar](https://github.com/faizerumar)
+- LinkedIn: [Faizer Umer](https://www.linkedin.com/in/faizer-umar)
 - Email: faizerumar@gmail.com
 
 ---
