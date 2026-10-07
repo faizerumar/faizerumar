@@ -1,4 +1,4 @@
-# Umar Faizer
+# UMAR FAIZER
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/faizerumar/faizerumar/main/assets/spectsman-logo.svg" alt="SPECTSMAN logo" width="900" />
