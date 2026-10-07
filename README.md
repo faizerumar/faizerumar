@@ -2,10 +2,11 @@
 
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=700&lines=Software+Developer;AI+Builder;Full-Stack+Engineer;Mobile+%26+Web+Developer" alt="[...]" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=700&lines=Software+Developer;AI+Builder;Full-Stack+Engineer;Mobile+%26+Web+Developer" alt="Ty[...]" />
 
   <p>
     <a href="https://github.com/faizerumar"><img src="https://img.shields.io/badge/GitHub-faizerumar-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
+    <a href="https://www.linkedin.com/in/faizer-umar"><img src="https://img.shields.io/badge/LinkedIn-faizer--umar-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
     <a href="mailto:faizerumar@gmail.com"><img src="https://img.shields.io/badge/Email-faizerumar%40gmail.com-D14836?style=for-the-badge&logo=gmail" alt="Email" /></a>
   </p>
 
