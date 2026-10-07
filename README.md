@@ -1,164 +1,125 @@
-# 👋 Hello, I'm Umar Faizer
+# Umar Faizer
 
-## 💻 Software Developer & AI Enthusiast
+<div align="center">
 
-Welcome to my GitHub profile! I'm a passionate full-stack developer with a diverse tech stack spanning multiple platforms and programming languages. I specialize in building intelligent applications, mobile solutions, and web platforms.
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=700&lines=Software+Developer;AI+Builder;Full-Stack+Engineer;Mobile+%26+Web+Developer" alt="Typing SVG" />
 
----
+  <p>
+    <a href="https://github.com/faizerumar"><img src="https://img.shields.io/badge/GitHub-faizerumar-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
+    <a href="mailto:faizerumar@gmail.com"><img src="https://img.shields.io/badge/Email-faizerumar%40gmail.com-D14836?style=for-the-badge&logo=gmail" alt="Email" /></a>
+  </p>
 
-## 🎯 About Me
+  <p>
+    <img src="https://img.shields.io/github/followers/faizerumar?style=social" alt="GitHub followers" />
+    <img src="https://img.shields.io/github/stars/faizerumar/faizerumar?style=social" alt="GitHub stars" />
+    <img src="https://img.shields.io/github/last-commit/faizerumar/faizerumar?style=flat-square" alt="Last commit" />
+  </p>
 
-- 🔧 Full-stack Developer with expertise in **Web**, **Mobile**, and **AI**
-- 🤖 AI & Machine Learning enthusiast
-- 📱 Cross-platform development specialist
-- 🚀 Passionate about creating innovative solutions
+</div>
 
----
+I build practical digital products across web, mobile, and AI. My work focuses on turning ideas into clean, functional systems that solve real problems and improve user experience.
 
-## 🛠️ Tech Stack
+## About Me
 
-### Languages & Frameworks
-- **Frontend**: JavaScript, CSS, HTML
-- **Backend**: Python, Java, JavaScript
-- **Mobile**: Flutter (Dart), Kotlin
-- **AI/ML**: Python, GeminiAI
+I’m a software developer with a strong interest in:
 
-### Notable Technologies
-- Flutter for cross-platform mobile development
-- Django/FastAPI for Python backends
-- React/Node.js for web development
-- AI Chatbots & Automation
-- Telegram Bot development
+- Full-stack web development
+- Mobile app development
+- AI-powered application experiences
+- Automation and workflow tooling
+- Building products from concept to deployment
 
----
+## Core Stack
 
-## 📊 GitHub Statistics
+### Languages
+- JavaScript
+- Python
+- Java
+- Dart
+- Kotlin
+- CSS
 
-| Metric | Value |
-|--------|-------|
-| **Total Repositories** | 11 |
-| **Public Repositories** | 11 |
-| **Followers** | Growing Community |
-| **Main Languages** | JavaScript, Python, Dart, Java, Kotlin |
+### Areas of focus
+- Frontend development
+- Backend systems
+- AI integrations
+- Mobile app engineering
+- Product-minded development
 
----
+## Featured Work
 
-## 🚀 Featured Projects
+### 1) Portfolio
+- Repo: [1Portfolio-Umar](https://github.com/faizerumar/1Portfolio-Umar)
+- Stack: JavaScript
+- Focus: Personal brand and portfolio experience
 
-### 1. **Portfolio**
-- **Repository**: [1Portfolio-Umar](https://github.com/faizerumar/1Portfolio-Umar)
-- **Tech**: JavaScript
-- **Description**: Portfolio of Software Developer Umar Faizer
+### 2) Cookbook AI Recipes App
+- Repo: [cookbook](https://github.com/faizerumar/cookbook)
+- Stack: Flutter, Dart
+- Focus: AI-assisted recipe generation and cooking experience
 
-### 2. **Cookbook - AI Recipes Generator**
-- **Repository**: [cookbook](https://github.com/faizerumar/cookbook)
-- **Tech**: Flutter (Dart)
-- **Description**: AI-powered mobile application for recipe generation and cooking assistance
+### 3) Python AI Chatbot
+- Repo: [python-ai-chatbot](https://github.com/faizerumar/python-ai-chatbot)
+- Stack: Python, Gemini AI
+- Focus: Conversational AI experiences
 
-### 3. **Python AI Chatbot**
-- **Repository**: [python-ai-chatbot](https://github.com/faizerumar/python-ai-chatbot)
-- **Tech**: Python, GeminiAI
-- **Description**: Intelligent chatbot powered by Google's Gemini AI
+### 4) Smart Inventory System
+- Repo: [Smart-Inventory-System-AI-Powered](https://github.com/faizerumar/Smart-Inventory-System-AI-Powered)
+- Stack: Java
+- Focus: Smart inventory workflow and business automation
 
-### 4. **Smart Inventory System**
-- **Repository**: [Smart-Inventory-System-AI-Powered](https://github.com/faizerumar/Smart-Inventory-System-AI-Powered)
-- **Tech**: Java
-- **Description**: AI-powered inventory management web application built with Apache Netbeans
+### 5) Expense Tracker
+- Repo: [expense-tracker](https://github.com/faizerumar/expense-tracker)
+- Stack: JavaScript
+- Focus: Web-based financial tracking
 
-### 5. **Expense Tracker Web**
-- **Repository**: [expense-tracker](https://github.com/faizerumar/expense-tracker)
-- **Tech**: JavaScript
-- **Description**: Web-based expense tracking application
+### 6) Expense Tracker Mobile
+- Repo: [Expense-tracker-mobile](https://github.com/faizerumar/Expense-tracker-mobile)
+- Stack: Kotlin
+- Focus: Android-based expense management
 
-### 6. **Expense Tracker Mobile**
-- **Repository**: [Expense-tracker-mobile](https://github.com/faizerumar/Expense-tracker-mobile)
-- **Tech**: Kotlin
-- **Description**: Mobile expense tracking solution for Android
+### 7) Live Weather App
+- Repo: [live-weather-app](https://github.com/faizerumar/live-weather-app)
+- Stack: JavaScript
+- Focus: Real-time weather data interfaces
 
-### 7. **Live Weather App**
-- **Repository**: [live-weather-app](https://github.com/faizerumar/live-weather-app)
-- **Tech**: JavaScript
-- **Description**: Real-time weather tracking application
+### 8) Telegram Bot
+- Repo: [telegram-bot](https://github.com/faizerumar/telegram-bot)
+- Stack: Python
+- Focus: Bot automation and user interaction flows
 
-### 8. **Telegram Bot**
-- **Repository**: [telegram-bot](https://github.com/faizerumar/telegram-bot)
-- **Tech**: Python
-- **Description**: Spectsman Telegram bot for automation
+## Developer Snapshot
 
-### 9. **Portfolio Design**
-- **Repository**: [2portfolio-design](https://github.com/faizerumar/2portfolio-design)
-- **Tech**: CSS
-- **Description**: Beautiful portfolio design showcase
+- Building products that merge design, logic, and user value
+- Interested in AI-enhanced user experiences
+- Comfortable across product, frontend, backend, and mobile layers
+- Continuously expanding skills in modern developer tooling and scalable architecture
 
----
+## GitHub Profile Summary
 
-## 📈 Development Areas
+This profile reflects a diverse coding portfolio spanning:
 
-### Expertise
-✅ **Web Development** - JavaScript, responsive design  
-✅ **Mobile Development** - Flutter & Kotlin for cross-platform apps  
-✅ **AI Integration** - GeminiAI, chatbots, automation  
-✅ **Backend Systems** - Python, Java, Node.js  
-✅ **Full-Stack Solutions** - End-to-end application development
+- Web development
+- AI experiments and integrations
+- Mobile app builds
+- Java-based enterprise-style projects
+- Frontend design and UI work
 
----
+## Current Focus
 
-## 🔗 Connect With Me
+- AI-native app experiences
+- Cleaner product architecture
+- Better user interfaces and interaction design
+- Reliable, maintainable software systems
+- Continuous learning and experimentation
 
-- **GitHub**: [@faizerumar](https://github.com/faizerumar)
-- **Portfolio**: Check out my portfolio projects above
+## Connect
 
----
-
-## 💡 What I'm Focused On
-
-- 🎓 Advancing AI/ML integration in applications
-- 📱 Creating seamless cross-platform mobile experiences
-- 🌐 Building scalable web solutions
-- 🤖 Exploring automation and intelligent systems
-- 📚 Continuous learning and skill development
-
----
-
-## 📝 Repository Overview
-
-```
-My GitHub includes:
-- 3 projects using JavaScript (Web Development)
-- 2 projects using Python (AI & Automation)
-- 1 project using Dart/Flutter (Mobile)
-- 1 project using Kotlin (Mobile)
-- 1 project using Java (Enterprise)
-- 1 project using CSS (Design)
-- 2 demonstration/template repositories
-```
+- GitHub: [@faizerumar](https://github.com/faizerumar)
+- Email: faizerumar@gmail.com
 
 ---
 
-## 🎓 Learning & Growth
-
-I'm continuously working on:
-- Deep learning and AI applications
-- Mobile app optimization
-- Cloud deployment and DevOps
-- Performance optimization
-- Open-source contributions
-
----
-
-## 🤝 Collaboration
-
-I'm open to:
-- 🌟 Collaborating on innovative projects
-- 🔄 Contributing to open-source
-- 💬 Sharing knowledge and best practices
-- 🎯 Building scalable applications together
-
----
-
-**Last Updated**: October 2026  
-**Profile Status**: 🟢 Active & Learning
-
----
-
-*Made with ❤️ by Umar Faizer*
+<p align="center">
+  <i>Building software with purpose.</i>
+</p>
