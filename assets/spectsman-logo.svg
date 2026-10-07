@@ -1,8 +1,8 @@
-<svg width="1200" height="860" viewBox="0 0 1200 860" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="SPECTSMAN logo by Umar Faizer">
-  <rect width="1200" height="860" fill="#e90000"/>
+<svg width="800" height="400" viewBox="0 0 1200 860" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="SPECTSMAN logo by Umar Faizer">
+  <rect width="1200" height="860" fill="#000000"/>
 
   <g transform="translate(0, 10)">
-    <g fill="none" stroke="#0b0b0b" stroke-width="12" stroke-linecap="round">
+    <g fill="none" stroke="#FF0000" stroke-width="12" stroke-linecap="round">
       <circle cx="410" cy="190" r="120"/>
       <circle cx="790" cy="190" r="120"/>
       <path d="M 535 190 H 665" stroke-width="10"/>
@@ -10,14 +10,14 @@
       <path d="M 960 190 H 900" stroke-width="10"/>
     </g>
 
-    <g stroke="#0b0b0b" stroke-width="10">
+    <g stroke="#FF0000" stroke-width="10">
       <line x1="240" y1="190" x2="300" y2="190"/>
       <line x1="900" y1="190" x2="960" y2="190"/>
     </g>
 
-    <line x1="250" y1="380" x2="950" y2="380" stroke="#0b0b0b" stroke-width="8"/>
+    <line x1="250" y1="380" x2="950" y2="380" stroke="#FF0000" stroke-width="8"/>
 
-    <text x="600" y="540" text-anchor="middle" fill="#0b0b0b" font-size="162" font-family="Arial Black, Impact, sans-serif" font-weight="900" letter-spacing="-8">SPECTSMAN</text>
-    <text x="600" y="690" text-anchor="middle" fill="#0b0b0b" font-size="60" font-family="Arial, Helvetica, sans-serif" font-weight="700" letter-spacing="10">UMAR FAIZER</text>
+    <text x="600" y="540" text-anchor="middle" fill="#FF0000" font-size="162" font-family="Arial Black, Impact, sans-serif" font-weight="900" letter-spacing="-8">SPECTSMAN</text>
+    <text x="600" y="690" text-anchor="middle" fill="#FF0000" font-size="60" font-family="Arial, Helvetica, sans-serif" font-weight="700" letter-spacing="10">UMAR FAIZER</text>
   </g>
 </svg>
