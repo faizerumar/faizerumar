@@ -2,10 +2,6 @@
   UMAR FAIZER
 </h1>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/faizerumar/faizerumar/main/assets/spectsman-logo.svg" alt="SPECTSMAN logo" width="500" style="filter: drop-shadow(0 0 16px rgba(255, 77, 77, 0.28));" />
-</p>
-
 <div align="center">
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&color=FF0000&lines=Software+Developer;AI+Builder;Full-Stack+Engineer;Mobile+%26+Web+Developer" alt="Typing SVG" />
