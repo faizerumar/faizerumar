@@ -1,7 +1,9 @@
-# `UMAR FAIZER`
+<h1 align="center" style="font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace; font-weight: 800; letter-spacing: 0.12em; color: #ff4d4d; text-shadow: 0 0 10px rgba(255, 77, 77, 0.55), 0 0 20px rgba(255, 77, 77, 0.35);">
+  UMAR FAIZER
+</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/faizerumar/faizerumar/main/assets/spectsman-logo.svg" alt="SPECTSMAN logo" width="500" />
+  <img src="https://raw.githubusercontent.com/faizerumar/faizerumar/main/assets/spectsman-logo.svg" alt="SPECTSMAN logo" width="500" style="filter: drop-shadow(0 0 16px rgba(255, 77, 77, 0.28));" />
 </p>
 
 <div align="center">
