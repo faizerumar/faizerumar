@@ -10,12 +10,12 @@
     <a href="https://faizerumar.github.io/1Portfolio-Umar/"><img src="https://img.shields.io/badge/Portfolio-Website-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
     <a href="https://github.com/faizerumar"><img src="https://img.shields.io/badge/GitHub-faizerumar-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
     <a href="https://www.linkedin.com/in/faizer-umar"><img src="https://img.shields.io/badge/LinkedIn-faizer--umar-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
-    <a href="mailto:faizerumar@gmail.com"><img src="black" alt="Email" /></a>
+    <a href="mailto:faizerumar@gmail.com"><img src="https://img.shields.io/badge/Gmail-faizerumar@gmail.com?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   </p>
 
   <p>
     <img src="https://img.shields.io/github/followers/faizerumar?style=social" alt="GitHub followers" />
-    <img src="https://img.shields.io/github/stars/faizerumar/faizerumar?style=social" alt="GitHub stars" />
+    <img src="https://img.shields.io/github/following/faizerumar/faizerumar?style=social" alt="GitHub following" />
     <img src="https://img.shields.io/github/last-commit/faizerumar/faizerumar?style=flat-square" alt="Last commit" />
   </p>
 
