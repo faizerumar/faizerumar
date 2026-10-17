@@ -9,8 +9,8 @@
   <p>
     <a href="https://faizerumar.github.io/1Portfolio-Umar/"><img src="https://img.shields.io/badge/Portfolio-Website-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
     <a href="https://github.com/faizerumar"><img src="https://img.shields.io/badge/GitHub-faizerumar-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-    <a href="https://www.linkedin.com/in/faizer-umar"><img src="https://img.shields.io/badge/LinkedIn-faizer--umar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="mailto:faizerumar@gmail.com"><img src="https://img.shields.io/badge/Email-faizerumar%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://www.linkedin.com/in/faizer-umar"><img src="https://img.shields.io/badge/LinkedIn-faizer--umar-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
+    <a href="mailto:faizerumar@gmail.com"><img src="black" alt="Email" /></a>
   </p>
 
   <p>
@@ -36,12 +36,14 @@ I'm a software developer with a strong interest in:
 ## Core Stack
 
 ### Languages
-- JavaScript
 - Python
 - Java
 - Dart
 - Kotlin
 - CSS
+- Laravel
+- React
+- .Net core
 
 ### Areas of focus
 - Frontend development
@@ -49,6 +51,7 @@ I'm a software developer with a strong interest in:
 - AI integrations
 - Mobile app engineering
 - Product-minded development
+- CI/CD Pipeline integration 
 
 ## Featured Work
 
@@ -126,5 +129,5 @@ This profile reflects a diverse coding portfolio spanning:
 ---
 
 <p align="center">
-  <i><b>Building software with purpose.</b></i>
+  <i>Building software with purpose.</i>
 </p>
