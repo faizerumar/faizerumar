@@ -1,14 +1,10 @@
 <h1 align="center">
   UMAR FAIZER
 </h1>
----
-<p align="center">
-  <i>spectsman</i>
-</p>
 
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&color=FF0000&lines=Software+Developer;AI+Builder;Full-Stack+Engineer;Mobile+%26+Web+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&color=FF0000&lines=Software+Developer;AI+Builder;Full-Stack+Engineer;Mobile+%26+Web+Developer;Product+Builder" alt="Typing SVG" />
 
   <p>
     <a href="https://faizerumar.github.io/1Portfolio-Umar/"><img src="https://img.shields.io/badge/Portfolio-Website-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
@@ -24,55 +20,85 @@
 
 I build practical digital products across web, mobile, and AI. My work focuses on turning ideas into clean, functional systems that solve real problems and improve user experience.
 
-## About Me
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h2>About Me</h2>
+      <p>I'm a software developer with a strong interest in:</p>
+      <ul>
+        <li>Full-stack web development</li>
+        <li>Mobile app development</li>
+        <li>AI-powered application experiences</li>
+        <li>Automation and workflow tooling</li>
+        <li>Building products from concept to deployment</li>
+      </ul>
+    </td>
+    <td valign="top" width="50%">
+      <h2>Core Stack</h2>
+      <ul>
+        <li>Python</li>
+        <li>Java</li>
+        <li>Dart</li>
+        <li>Kotlin</li>
+        <li>CSS</li>
+        <li>Laravel</li>
+        <li>React</li>
+        <li>.Net Core</li>
+      </ul>
+    </td>
+  </tr>
 
-I'm a software developer with a strong interest in:
+  <tr>
+    <td valign="top" width="50%">
+      <h3>Languages</h3>
+      <ul>
+        <li>Python</li>
+        <li>Java</li>
+        <li>Dart</li>
+        <li>Kotlin</li>
+        <li>CSS</li>
+      </ul>
+    </td>
+    <td valign="top" width="50%">
+      <h3>Areas of focus</h3>
+      <ul>
+        <li>Frontend development</li>
+        <li>Backend systems</li>
+        <li>AI integrations</li>
+        <li>Mobile app engineering</li>
+        <li>Product-minded development</li>
+        <li>CI/CD pipeline integration</li>
+      </ul>
+    </td>
+  </tr>
 
-- Full-stack web development
-- Mobile app development
-- AI-powered application experiences
-- Automation and workflow tooling
-- Building products from concept to deployment
-
-## Core Stack
-
-### Languages
-- Python
-- Java
-- Dart
-- Kotlin
-- CSS
-- Laravel
-- React
-- .Net Core
-
-### Areas of focus
-- Frontend development
-- Backend systems
-- AI integrations
-- Mobile app engineering
-- Product-minded development
-- CI/CD Pipeline integration
-
-## Developer Snapshot
-
-- Building products that merge design, logic, and user value
-- Interested in AI-enhanced user experiences
-- Comfortable across product, frontend, backend, and mobile layers
-- Continuously expanding skills in modern developer tooling and scalable architecture
-
-## Current Focus
-
-- AI-native app experiences
-- Cleaner product architecture
-- Better user interfaces and interaction design
-- Reliable, maintainable software systems
-- Continuous learning and experimentation
-- Web development
-- AI experiments and integrations
-- Mobile app builds
-- Java-based enterprise-style projects
-- Frontend design and UI work
+  <tr>
+    <td valign="top" width="50%">
+      <h2>Developer Snapshot</h2>
+      <ul>
+        <li>Building products that merge design, logic, and user value</li>
+        <li>Interested in AI-enhanced user experiences</li>
+        <li>Comfortable across product, frontend, backend, and mobile layers</li>
+        <li>Continuously expanding skills in modern developer tooling and scalable architecture</li>
+      </ul>
+    </td>
+    <td valign="top" width="50%">
+      <h2>Current Focus</h2>
+      <ul>
+        <li>AI-native app experiences</li>
+        <li>Cleaner product architecture</li>
+        <li>Better user interfaces and interaction design</li>
+        <li>Reliable, maintainable software systems</li>
+        <li>Continuous learning and experimentation</li>
+        <li>Web development</li>
+        <li>AI experiments and integrations</li>
+        <li>Mobile app builds</li>
+        <li>Java-based enterprise-style projects</li>
+        <li>Frontend design and UI work</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ## Connect
 
