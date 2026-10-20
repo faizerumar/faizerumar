@@ -1,6 +1,10 @@
 <h1 align="center">
   UMAR FAIZER
 </h1>
+---
+<p align="center">
+  <i>spectsman</i>
+</p>
 
 <div align="center">
 
@@ -49,7 +53,7 @@ I'm a software developer with a strong interest in:
 - Mobile app engineering
 - Product-minded development
 - CI/CD Pipeline integration
-- 
+
 ## Developer Snapshot
 
 - Building products that merge design, logic, and user value
