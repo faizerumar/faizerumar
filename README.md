@@ -1,4 +1,4 @@
-<h1 align="center" style="font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace; font-weight: 800; letter-spacing: 0.12em; color: #ff4d4d; text-shadow: 0 0 10px rgba(255, 77, 77, 0.6);">
+<h1 align="center">
   UMAR FAIZER
 </h1>
 
@@ -48,66 +48,14 @@ I'm a software developer with a strong interest in:
 - AI integrations
 - Mobile app engineering
 - Product-minded development
-- CI/CD Pipeline integration 
-
-## Featured Work
-
-### 1) Portfolio
-- Repo: [1Portfolio-Umar](https://github.com/faizerumar/1Portfolio-Umar)
-- Stack: JavaScript
-- Focus: Personal brand and portfolio experience
-
-### 2) Cookbook AI Recipes App
-- Repo: [cookbook](https://github.com/faizerumar/cookbook)
-- Stack: Flutter, Dart
-- Focus: AI-assisted recipe generation and cooking experience
-
-### 3) Python AI Chatbot
-- Repo: [python-ai-chatbot](https://github.com/faizerumar/python-ai-chatbot)
-- Stack: Python, Gemini AI
-- Focus: Conversational AI experiences
-
-### 4) Smart Inventory System
-- Repo: [Smart-Inventory-System-AI-Powered](https://github.com/faizerumar/Smart-Inventory-System-AI-Powered)
-- Stack: Java
-- Focus: Smart inventory workflow and business automation
-
-### 5) Expense Tracker
-- Repo: [expense-tracker](https://github.com/faizerumar/expense-tracker)
-- Stack: JavaScript
-- Focus: Web-based financial tracking
-
-### 6) Expense Tracker Mobile
-- Repo: [Expense-tracker-mobile](https://github.com/faizerumar/Expense-tracker-mobile)
-- Stack: Kotlin
-- Focus: Android-based expense management
-
-### 7) Live Weather App
-- Repo: [live-weather-app](https://github.com/faizerumar/live-weather-app)
-- Stack: JavaScript
-- Focus: Real-time weather data interfaces
-
-### 8) Telegram Bot
-- Repo: [telegram-bot](https://github.com/faizerumar/telegram-bot)
-- Stack: Python
-- Focus: Bot automation and user interaction flows
-
+- CI/CD Pipeline integration
+- 
 ## Developer Snapshot
 
 - Building products that merge design, logic, and user value
 - Interested in AI-enhanced user experiences
 - Comfortable across product, frontend, backend, and mobile layers
 - Continuously expanding skills in modern developer tooling and scalable architecture
-
-## GitHub Profile Summary
-
-This profile reflects a diverse coding portfolio spanning:
-
-- Web development
-- AI experiments and integrations
-- Mobile app builds
-- Java-based enterprise-style projects
-- Frontend design and UI work
 
 ## Current Focus
 
@@ -116,6 +64,11 @@ This profile reflects a diverse coding portfolio spanning:
 - Better user interfaces and interaction design
 - Reliable, maintainable software systems
 - Continuous learning and experimentation
+- Web development
+- AI experiments and integrations
+- Mobile app builds
+- Java-based enterprise-style projects
+- Frontend design and UI work
 
 ## Connect
 
