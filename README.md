@@ -1,4 +1,4 @@
-<h1 align="center" style="font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace; font-weight: 800; letter-spacing: 0.12em; color: #ff4d4d; text-shadow: 0 0 10px rgba(255, 77, 77, 0.55), 0 0 20px rgba(255, 77, 77, 0.35);">
+<h1 align="center" style="font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace; font-weight: 800; letter-spacing: 0.12em; color: #ff4d4d; text-shadow: 0 0 10px rgba(255, 77, 77, 0.6);">
   UMAR FAIZER
 </h1>
 
@@ -7,9 +7,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&color=FF0000&lines=Software+Developer;AI+Builder;Full-Stack+Engineer;Mobile+%26+Web+Developer" alt="Typing SVG" />
 
   <p>
-    <a href="https://faizerumar.github.io/1Portfolio-Umar/"><img src="https://img.shields.io/badge/Portfolio-Website-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-    <a href="https://github.com/faizerumar"><img src="https://img.shields.io/badge/GitHub-faizerumar-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-    <a href="https://www.linkedin.com/in/faizer-umar"><img src="https://img.shields.io/badge/LinkedIn-faizer--umar-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
+    <a href="https://faizerumar.github.io/1Portfolio-Umar/"><img src="https://img.shields.io/badge/Portfolio-Website-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+    <a href="https://github.com/faizerumar"><img src="https://img.shields.io/badge/GitHub-faizerumar-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+    <a href="https://www.linkedin.com/in/faizer-umar"><img src="https://img.shields.io/badge/LinkedIn-faizer--umar-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
   <p>
     <img src="https://img.shields.io/github/followers/faizerumar?style=social" alt="GitHub followers" />
