@@ -50,16 +50,6 @@ I build practical digital products across web, mobile, and AI. My work focuses o
 
   <tr>
     <td valign="top" width="50%">
-      <h3>Languages</h3>
-      <ul>
-        <li>Python</li>
-        <li>Java</li>
-        <li>Dart</li>
-        <li>Kotlin</li>
-        <li>CSS</li>
-      </ul>
-    </td>
-    <td valign="top" width="50%">
       <h3>Areas of focus</h3>
       <ul>
         <li>Frontend development</li>
