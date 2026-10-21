@@ -50,20 +50,6 @@ I build practical digital products across web, mobile, and AI. My work focuses o
 
   <tr>
     <td valign="top" width="50%">
-      <h3>Areas of focus</h3>
-      <ul>
-        <li>Frontend development</li>
-        <li>Backend systems</li>
-        <li>AI integrations</li>
-        <li>Mobile app engineering</li>
-        <li>Product-minded development</li>
-        <li>CI/CD pipeline integration</li>
-      </ul>
-    </td>
-  </tr>
-
-  <tr>
-    <td valign="top" width="50%">
       <h2>Developer Snapshot</h2>
       <ul>
         <li>Building products that merge design, logic, and user value</li>
